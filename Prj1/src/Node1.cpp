@@ -73,21 +73,24 @@ void readerCallback(const sensor_msgs::JointState::ConstPtr& msg) {
     float u3 = delta_pos_3/delta_t;
     float u4 = delta_pos_4/delta_t;
 
-    ROS_INFO("u1: [%f]", u1);
-    ROS_INFO("u2: [%f]", u2);
-    ROS_INFO("u3: [%f]", u3);
-    ROS_INFO("u4: [%f]", u4);
+    //ROS_INFO("u1: [%f]", u1);
+    //ROS_INFO("u2: [%f]", u2);
+    //ROS_INFO("u3: [%f]", u3);
+    //ROS_INFO("u4: [%f]", u4);
 
     //velocità del robot
     float w_bz = r/4/(l+w)*(-u1+u2+u3-u4);
     float v_bx = r/4*(u1+u2+u3+u4);
     float v_by = r/4*(-u1+u2-u3+u4);
 
-    ROS_INFO("v_bx: [%f]", v_bx);
-    ROS_INFO("v_by: [%f]", v_by);
-    ROS_INFO("w_bz: [%f]", w_bz);
+    //ROS_INFO("v_bx: [%f]", v_bx);
+    //ROS_INFO("v_by: [%f]", v_by);
+    //ROS_INFO("w_bz: [%f]", w_bz);
 
     //creo messaggio di tipo geometry_msgs/TwistStamped
+    geom_msg.header.frame_id = "Robot velocities";
+    geom_msg.header.stamp.sec = past_sec;
+    geom_msg.header.stamp.nsec = past_nsec;
     geom_msg.twist.linear.x = v_bx;
     geom_msg.twist.linear.y = v_by;
     geom_msg.twist.linear.z = 0;
