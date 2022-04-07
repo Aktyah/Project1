@@ -4,8 +4,6 @@
     <param name="lenght"        type="double"   value="0.20"/>
     <param name="width"		type="double"	value="0.169"/>
 
-    <node pkg="Prj1" type="Node1" name="my_subscriber" output="screen" />
-
-    <node pkg="rosbag" type="play" name="player" output="log" args="--clock /home/marco/robotics/src/Project1/bag1.bag"/>
+    <node pkg="Prj1" type="Node1" name="velocities_calculator" output="screen" />
 
 </launch>
