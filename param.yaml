@@ -1,0 +1,27 @@
+!!python/object/new:dynamic_reconfigure.encoding.Config
+dictitems:
+  FirstPoseX: 0.008159
+  FirstPoseY: 0.003059
+  FirstPosew: 0.999525
+  FirstPosex: 0.368708
+  FirstPosey: -0.011577
+  FirstPosez: -0.020751
+  groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+    dictitems:
+      FirstPoseX: 0.008159
+      FirstPoseY: 0.003059
+      FirstPosew: 0.999525
+      FirstPosex: 0.368708
+      FirstPosey: -0.011577
+      FirstPosez: -0.020751
+      groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      id: 0
+      name: Default
+      parameters: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      parent: 0
+      state: true
+      type: ''
+    state: []
+state: []
