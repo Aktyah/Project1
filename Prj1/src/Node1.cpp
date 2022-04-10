@@ -1,10 +1,12 @@
+#define _USE_MATH_DEFINES
+
 #include "ros/ros.h"
 #include "std_msgs/String.h"
 #include "pub_sub/Num.h"
 #include "sensor_msgs/JointState.h"
-#include "std_msgs/Float64.h"
-#include "std_msgs/Int32.h"
 #include "geometry_msgs/TwistStamped.h"
+#include "math.h"
+
 
 class Node1
 {
@@ -14,6 +16,8 @@ public:
     n.getParam("/radius", r);
     n.getParam("/lenght", l);
     n.getParam("/width", w);
+    n.getParam("/cpr", cpr);
+
 
     sub_reader = n.subscribe <sensor_msgs::JointState>("wheel_states", 1000, &Node1::readerCallback, this);
     vel_pub = n.advertise <geometry_msgs::TwistStamped>("cmd_vel", 1000);
@@ -29,8 +33,13 @@ public:
   //dati sulleposizioni ruote(tick)
   position_1 = msg->position[0];
   position_2 = msg->position[1];
-  position_3 = msg->position[2];
-  position_4 = msg->position[3];
+  position_3 = msg->position[3];
+  position_4 = msg->position[2];
+
+  ROS_INFO("position_1: [%d]", position_1);
+  ROS_INFO("position_2: [%d]", position_2);
+  ROS_INFO("position_3: [%d]", position_3);
+  ROS_INFO("position_4: [%d]", position_4);
 
   if(flag==1){
     past_sec = sec;
@@ -46,32 +55,38 @@ public:
     delta_sec = sec-past_sec;
     delta_nsec = (nsec-past_nsec)*0.000000001;
 
-    delta_t = delta_nsec+ (float) delta_sec;
+    delta_t = delta_nsec+ (double) delta_sec;
 
-    delta_pos_1 = position_1-past_position_1;
-    delta_pos_2 = position_2-past_position_2;
-    delta_pos_3 = position_3-past_position_3;
-    delta_pos_4 = position_4-past_position_4;
+    //calcolo dell' angolo
+    delta_theta_1 = 2*M_PI/cpr*(position_1-past_position_1);
+    delta_theta_2 = 2*M_PI/cpr*(position_2-past_position_2);
+    delta_theta_3 = 2*M_PI/cpr*(position_3-past_position_3);
+    delta_theta_4 = 2*M_PI/cpr*(position_4-past_position_4);
+
+    ROS_INFO("delta_theta_1: [%f]", delta_theta_1);
+    ROS_INFO("delta_theta_2: [%f]", delta_theta_2);
+    ROS_INFO("delta_theta_3: [%f]", delta_theta_3);
+    ROS_INFO("delta_theta_4: [%f]", delta_theta_4);
 
     //velocità angolari delle singole ruote
-    u1 = delta_pos_1/delta_t;
-    u2 = delta_pos_2/delta_t;
-    u3 = delta_pos_3/delta_t;
-    u4 = delta_pos_4/delta_t;
+    u1 = delta_theta_1/delta_t;
+    u2 = delta_theta_2/delta_t;
+    u3 = delta_theta_3/delta_t;
+    u4 = delta_theta_4/delta_t;
 
-    //ROS_INFO("u1: [%f]", u1);
-    //ROS_INFO("u2: [%f]", u2);
-    //ROS_INFO("u3: [%f]", u3);
-    //ROS_INFO("u4: [%f]", u4);
+    ROS_INFO("u1: [%f]", u1);
+    ROS_INFO("u2: [%f]", u2);
+    ROS_INFO("u3: [%f]", u3);
+    ROS_INFO("u4: [%f]", u4);
 
     //velocità del robot
     w_bz = r/4/(l+w)*(-u1+u2+u3-u4);
     v_bx = r/4*(u1+u2+u3+u4);
     v_by = r/4*(-u1+u2-u3+u4);
 
-    //ROS_INFO("v_bx: [%f]", v_bx);
-    //ROS_INFO("v_by: [%f]", v_by);
-    //ROS_INFO("w_bz: [%f]", w_bz);
+    ROS_INFO("v_bx: [%f]", v_bx);
+    ROS_INFO("v_by: [%f]", v_by);
+    ROS_INFO("w_bz: [%f]", w_bz);
 
     //creo messaggio di tipo geometry_msgs/TwistStamped
     geom_msg.header.frame_id = "Robot velocities";
@@ -104,41 +119,42 @@ private:
   double r;
   double l;
   double w;
+  int cpr; //counts per revolution
 
   bool flag=1;
   int past_sec;
   int past_nsec;
-  double past_position_1;
-  double past_position_2;
-  double past_position_3;
-  double past_position_4;
+  int past_position_1;
+  int past_position_2;
+  int past_position_3;
+  int past_position_4;
 
   geometry_msgs::TwistStamped geom_msg;
 
   int sec;
   int nsec;
   
-  float position_1 ;
-  float position_2 ;
-  float position_3 ;
-  float position_4 ;
+  int position_1 ;
+  int position_2 ;
+  int position_3 ;
+  int position_4 ;
 
-  float delta_pos_1; 
-  float delta_pos_2;
-  float delta_pos_3;
-  float delta_pos_4;
+  double delta_theta_1; 
+  double delta_theta_2;
+  double delta_theta_3;
+  double delta_theta_4;
   
   int delta_sec;
-  float delta_nsec;
-  float delta_t;
+  double delta_nsec;
+  double delta_t;
 
-  float u1 ;
-  float u2 ;
-  float u3 ;
-  float u4 ;
-  float w_bz ;
-  float v_bx ;
-  float v_by ;
+  double u1 ;
+  double u2 ;
+  double u3 ;
+  double u4 ;
+  double w_bz ;
+  double v_bx ;
+  double v_by ;
 };
 
 int main(int argc, char **argv) {
