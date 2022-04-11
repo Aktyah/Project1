@@ -12,5 +12,6 @@
     <param name="FirstPoserw"      type="double"  value = "-0.45061904192"/-->
 
     <node pkg="Prj1" type="Node1" name="listener"    output="screen" />
+    <node pkg="Prj1" type="FirstPose" name="first_pose" output="screen" />
     <node pkg="Prj1" type="Node2" name="Node2"    output="screen" />
 </launch>
