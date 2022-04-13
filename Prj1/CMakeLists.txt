@@ -2,18 +2,27 @@ cmake_minimum_required(VERSION 2.8.3)
 project(Prj1)
 
 ## Find catkin and any catkin packages
-find_package(catkin REQUIRED COMPONENTS roscpp std_msgs message_generation)
+find_package(catkin REQUIRED COMPONENTS roscpp std_msgs message_generation geometry_msgs dynamic_reconfigure)
 
 ## Add custom message and its dependencies
-add_message_files(
-  FILES
-  Num.msg
- )
+## add_message_files(
+## FILES
+## Num.msg
+##)
+
+generate_dynamic_reconfigure_options(
+	cfg/parameters.cfg
+)
+
+add_service_files(
+	FILES
+	pose.srv
+)
 
 generate_messages(
    DEPENDENCIES
    std_msgs
- )
+)
 
 ## Declare a catkin package
 catkin_package(CATKIN_DEPENDS message_runtime)
