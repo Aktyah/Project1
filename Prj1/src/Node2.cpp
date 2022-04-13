@@ -49,7 +49,7 @@ dynamic_reconfigure::Server<parNode2::parametersConfig>::CallbackType call;
 
 // Dynamic configure function (Odometry integration method choice)
 void callbackConf (parNode2::parametersConfig &con){
-    mode = con.selection;
+    mode = con.method;
     ROS_INFO("**** INTEGRATING WITH %s ****", mode?"RK":"Euler");
 }
 
@@ -65,10 +65,28 @@ void setFirstPose (ros::NodeHandle n){
 }
 
 // Service Callback
-void pose_callback (Prj1::pose::Request &req){
+bool pose_callback (Prj1::pose::Request &req , Prj1::pose::Response &res){
+    // Set the new X Y coord's
     current_pose.pose.pose.position.x = req.x; 
-    current_pose.pose.pose.position.y = req.y;
-    current_pose.pose.pose.position.z = req.theta; 
+    current_pose.pose.pose.position.y = req.y; 
+
+    // Set the new theta with quaternions
+    tf::Quaternion quat;
+    tfScalar roll, pitch, yaw;
+    quat.setX(current_pose.pose.pose.orientation.x);
+    quat.setY(current_pose.pose.pose.orientation.y);
+    quat.setZ(current_pose.pose.pose.orientation.z);
+    quat.setW(current_pose.pose.pose.orientation.w);
+    tf::Matrix3x3(quat).getRPY(roll,pitch,yaw);
+    yaw = req.theta;
+    quat.setRPY(roll,pitch,yaw);
+    current_pose.pose.pose.orientation.x = quat.getX();
+    current_pose.pose.pose.orientation.y = quat.getY();
+    current_pose.pose.pose.orientation.z = quat.getZ();
+    current_pose.pose.pose.orientation.w = quat.getW();
+    ROS_INFO("OLD POSE:  %f  %f  %f", res.old_x, res.old_y, res.old_theta);
+    ROS_INFO("NEW POSE:  %f  %f  %f", req.x, req.y, req.theta);
+    return true;
 }
 
 // sub's callback, reads the velocities coming from /cmd_vel
@@ -89,11 +107,6 @@ void readVel (const geometry_msgs::TwistStamped::ConstPtr& msg){
 
 // Integration (Euler and RK)
 void Integration (int &mode){
-    tf::Quaternion quat_current;
-    quat_current.setX(current_pose.pose.pose.orientation.x);
-    quat_current.setY(current_pose.pose.pose.orientation.y);
-    quat_current.setZ(current_pose.pose.pose.orientation.z);
-    quat_current.setW(current_pose.pose.pose.orientation.w);
     // Header
     current_pose.header.seq = velocity.header.seq;
     current_pose.header.frame_id = "world";
@@ -108,6 +121,11 @@ void Integration (int &mode){
     // Child frame Id
     current_pose.child_frame_id = "base";
     // Transformation from quaternions to euler angles
+    tf::Quaternion quat_current;
+    quat_current.setX(current_pose.pose.pose.orientation.x);
+    quat_current.setY(current_pose.pose.pose.orientation.y);
+    quat_current.setZ(current_pose.pose.pose.orientation.z);
+    quat_current.setW(current_pose.pose.pose.orientation.w);
     tfScalar roll, pitch, yaw;
     tf::Matrix3x3(quat_current).getRPY(roll,pitch,yaw);
     // Angle related computations
@@ -161,7 +179,7 @@ public:
 Node2(){
     this->reader = this->n.subscribe<geometry_msgs::TwistStamped>("cmd_vel", 1000, &Node2::readVel, this);
     this->Odom_publisher = this->n.advertise<nav_msgs::Odometry>("odom",1000);
-    this->service = this->n.advertiseService<Prj1::pose::Request>("new_pose", &Node2::pose_callback, this);
+    this->service = this->n.advertiseService("new_pose", &Node2::pose_callback, this);
     this->call = boost::bind(&Node2::callbackConf, this, _1);
 }
 
