@@ -16,6 +16,9 @@
 #include <dynamic_reconfigure/server.h>
 #include "Prj1/parametersConfig.h"
 #include "Prj1/pose.h"
+#include <tf2/LinearMath/Quaternion.h>
+#include <tf2_ros/transform_broadcaster.h>
+#include <geometry_msgs/TransformStamped.h>
 
 #include <cmath>
 #include <iostream>
@@ -31,12 +34,16 @@ double T1 = 0;
 nav_msgs::Odometry current_pose;
 // Velocity read from /cmd_vel
 geometry_msgs::TwistStamped velocity;
+// Broadcaster data
+geometry_msgs::TransformStamped transformStamped; //
 // Integration method
 int mode;
 // Publications
 ros::Publisher Odom_publisher;
 // Subscriber
 ros::Subscriber reader;
+//TF2 broadcaster
+tf2_ros::TransformBroadcaster br; //
 // Service
 ros::ServiceServer service;
 // Node handle
@@ -61,12 +68,15 @@ void readVel (const geometry_msgs::TwistStamped::ConstPtr& msg);
 // Integration (Euler and RK)
 void Integration (int &mode);
 
+// Broadcast the transformation between odom and base_link
+void callback_tf2 (const nav_msgs::Odometry &msg);
+
 //********************************************************************************************************************
 public:
 Node2(); // we must define the class constructor
+
 // Main function to run
 void run_node();
 };
-
 
 #endif

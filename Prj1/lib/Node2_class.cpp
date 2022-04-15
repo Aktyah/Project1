@@ -13,6 +13,10 @@
 #include <dynamic_reconfigure/server.h>
 #include "Prj1/parametersConfig.h"
 #include "Prj1/pose.h"
+#include <tf2/LinearMath/Quaternion.h>
+#include <tf2_ros/transform_broadcaster.h>
+#include <geometry_msgs/TransformStamped.h>
+
 
 #include <cmath>
 #include <iostream>
@@ -83,7 +87,7 @@ void Node2::readVel (const geometry_msgs::TwistStamped::ConstPtr& msg){
 void Node2::Integration (int &mode){
     // Header
     current_pose.header.seq = velocity.header.seq;
-    current_pose.header.frame_id = "world";
+    current_pose.header.frame_id = "odom"; // frame in wich odometry is done (in this case it corresponds to the world rs)
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
@@ -93,7 +97,7 @@ void Node2::Integration (int &mode){
     current_pose.header.stamp.sec  = T1 - t2 * 1e-9;
     current_pose.header.stamp.nsec = (T1 - t1)*1e9;
     // Child frame Id
-    current_pose.child_frame_id = "base";
+    current_pose.child_frame_id = "base_link"; // robot's local rs
     // Transformation from quaternions to euler angles
     tf::Quaternion quat_current;
     quat_current.setX(current_pose.pose.pose.orientation.x);
@@ -147,14 +151,34 @@ void Node2::Integration (int &mode){
     // Covariance is left to 0
 }   
 
+void Node2::callback_tf2(const nav_msgs::Odometry &msg){
+  // set header
+  transformStamped.header.stamp    = msg.header.stamp;
+  transformStamped.header.frame_id = msg.header.frame_id;
+  transformStamped.child_frame_id  = msg.child_frame_id;
+  // set x,y
+  transformStamped.transform.translation.x = msg.pose.pose.position.x;
+  transformStamped.transform.translation.y = msg.pose.pose.position.y;
+  transformStamped.transform.translation.z = msg.pose.pose.position.z;
+  // set theta
+  transformStamped.transform.rotation.x = msg.pose.pose.orientation.x;
+  transformStamped.transform.rotation.y = msg.pose.pose.orientation.y;
+  transformStamped.transform.rotation.z = msg.pose.pose.orientation.z;
+  transformStamped.transform.rotation.w = msg.pose.pose.orientation.w;
+  // send transform
+  br.sendTransform(transformStamped);
+}
+
 void Node2::run_node(){
     dynServer.setCallback(call);
+    Node2::Odom_publisher.publish(current_pose);
     setFirstPose(n);
 
     ros::Rate loop_rate(10);
     while(ros::ok()){
         Node2::Integration(mode);
-        Odom_publisher.publish(current_pose);
+        Node2::callback_tf2(current_pose);
+        Node2::Odom_publisher.publish(current_pose);
         ros::spinOnce();
     }
 }

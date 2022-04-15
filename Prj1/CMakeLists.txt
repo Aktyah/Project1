@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8.3)
 project(Prj1)
 
 ## Find catkin and any catkin packages
-find_package(catkin REQUIRED COMPONENTS roscpp std_msgs message_generation geometry_msgs dynamic_reconfigure)
+find_package(catkin REQUIRED COMPONENTS roscpp std_msgs message_generation geometry_msgs dynamic_reconfigure tf2_ros)
 
 generate_dynamic_reconfigure_options(
 	cfg/parameters.cfg
