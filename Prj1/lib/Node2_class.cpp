@@ -87,7 +87,7 @@ void Node2::readVel (const geometry_msgs::TwistStamped::ConstPtr& msg){
 void Node2::Integration (int &mode){
     // Header
     current_pose.header.seq = velocity.header.seq;
-    current_pose.header.frame_id = "odom"; // frame in wich odometry is done (in this case it corresponds to the world rs)
+    current_pose.header.frame_id = "world"; // frame in wich odometry is done (in this case it corresponds to the world rs)
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
@@ -113,7 +113,7 @@ void Node2::Integration (int &mode){
 
     // Twist
     current_pose.twist.twist.linear.x  = velocity.twist.linear.x;
-    current_pose.twist.twist.linear.y  = velocity.twist.linear.x; 
+    current_pose.twist.twist.linear.y  = velocity.twist.linear.y; 
     current_pose.twist.twist.linear.z  = velocity.twist.linear.z;
     current_pose.twist.twist.angular.x = velocity.twist.angular.x; 
     current_pose.twist.twist.angular.y = velocity.twist.angular.y;
@@ -127,16 +127,17 @@ void Node2::Integration (int &mode){
         case 0:
             current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw + velocity.twist.linear.y * sin_yaw) * dT;
             current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw + velocity.twist.linear.y * cos_yaw) * dT;
-            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z;
+            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z  * dT;
             break;
         case 1:
         {
             double theta = yaw + (velocity.twist.angular.z*dT)/2;
             double cos_theta = std::abs(cos(theta));
             double sin_theta = std::abs(sin(theta));
+            ROS_INFO("%f %f", cos_theta, sin_theta);
             current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw * cos_theta + velocity.twist.linear.y * sin_yaw * sin_theta) * dT;
-            current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw * cos_theta + velocity.twist.linear.y * cos_yaw * sin_theta) * dT;
-            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z;
+            current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw * sin_theta + velocity.twist.linear.y * cos_yaw * cos_theta) * dT;
+            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z  * dT;
             break;
         }
         default:
