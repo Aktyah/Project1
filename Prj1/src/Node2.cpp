@@ -8,7 +8,6 @@
 #include "tf2/LinearMath/Quaternion.h"
 #include "tf2_geometry_msgs/tf2_geometry_msgs.h"
 #include "nav_msgs/Odometry.h"
-#include "tf/transform_datatypes.h"
 #include "std_msgs/Float64.h"
 #include <dynamic_reconfigure/server.h>
 #include "Prj1/parametersConfig.h"
@@ -19,7 +18,8 @@
 
 #include "Node2_class/Node2_class.h"
 
-int main(int argc, char **argv){
+int main(int argc, char **argv)
+{
     ros::init(argc, argv, "Node2");
     Node2 node;
     node.run_node();
