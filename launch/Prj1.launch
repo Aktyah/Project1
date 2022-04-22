@@ -1,0 +1,18 @@
+<launch>
+
+    <param name="radius"	       type="double"  value = "0.07"/>
+    <param name="lenght"           type="double"  value = "0.20"/>
+    <param name="width"		       type="double"  value = "0.169"/>
+    <param name="cpr"              type="int"     value = "42"/>
+    <param name="/FirstPoseX"      type="double"  value = "0.008159"/>    
+    <param name="/FirstPoseY"      type="double"  value = "0.003059"/>
+    <param name="/FirstPoseZ"      type="double"  value = "0.368708"/>
+    <param name="FirstPoserx"      type="double"  value = "0.368708"/>
+    <param name="FirstPosery"      type="double"  value = "-0.011577"/>
+    <param name="FirstPoserz"      type="double"  value = "-0.020751"/>
+    <param name="FirstPoserw"      type="double"  value = "0.999525"/>
+
+    <node pkg="Prj1" type="Node1" name="listener"    output="screen" />
+    <node pkg="Prj1" type="Node2" name="Node2"    output="screen" />
+    <node pkg="Prj1" type="FirstPose" name="first_pose" output="screen" />
+</launch>
