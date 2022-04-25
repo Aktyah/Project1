@@ -97,7 +97,7 @@ void Node2::Integration(int &mode)
 {
     // Header
     current_pose.header.seq = velocity.header.seq;
-    current_pose.header.frame_id = "world"; // frame in wich odometry is done (in this case it corresponds to the world rs)
+    current_pose.header.frame_id = velocity.header.frame_id; // frame in wich odometry is done (in this case it corresponds to the world rs)
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
