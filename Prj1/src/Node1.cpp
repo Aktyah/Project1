@@ -94,9 +94,10 @@ public:
     ROS_INFO("w_bz: %f", w_bz);
 
     //creo messaggio di tipo geometry_msgs/TwistStamped
-    geom_msg.header.frame_id = "Robot velocities";
-    geom_msg.header.stamp.sec = past_sec;
-    geom_msg.header.stamp.nsec = past_nsec;
+    geom_msg.header.frame_id = "base_link";
+    geom_msg.header.stamp.sec = sec;
+    geom_msg.header.stamp.nsec = nsec;
+    geom_msg.header.seq = msg->header.seq;
     geom_msg.twist.linear.x = v_bx;
     geom_msg.twist.linear.y = v_by;
     geom_msg.twist.linear.z = 0;
