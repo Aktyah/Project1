@@ -46,7 +46,6 @@ void Node2::setFirstPose(ros::NodeHandle n)
     this->n.getParam("FirstPoserz", current_pose.pose.pose.orientation.z);
 }
 
-// ************************************************************************************
 bool Node2::pose_callback(Prj1::pose::Request &req, Prj1::pose::Response &res)
 {
     // Set the new X Y coord's
@@ -74,15 +73,14 @@ bool Node2::pose_callback(Prj1::pose::Request &req, Prj1::pose::Response &res)
     ROS_INFO("NEW POSE:  %f  %f  %f", req.x, req.y, req.theta);
     return true;
 }
-// ************************************************************************************
 
 void Node2::readVel(const geometry_msgs::TwistStamped::ConstPtr &msg)
 {
     // Header
-    velocity.header.seq = msg->header.seq;
-    velocity.header.stamp.sec = msg->header.stamp.sec;
+    velocity.header.seq        = msg->header.seq;
+    velocity.header.stamp.sec  = msg->header.stamp.sec;
     velocity.header.stamp.nsec = msg->header.stamp.nsec;
-    velocity.header.frame_id = msg->header.frame_id;
+    velocity.header.frame_id   = msg->header.frame_id;
     // Twist
     velocity.twist.linear.x = msg->twist.linear.x;
     velocity.twist.linear.y = msg->twist.linear.y;
@@ -92,12 +90,12 @@ void Node2::readVel(const geometry_msgs::TwistStamped::ConstPtr &msg)
     velocity.twist.angular.z = msg->twist.angular.z;
 }
 
-// ************************************************************************************
 void Node2::Integration(int &mode)
 {
     // Header
     current_pose.header.seq = velocity.header.seq;
-    current_pose.header.frame_id = velocity.header.frame_id; // frame in wich odometry is done (in this case it corresponds to the world rs)
+    //current_pose.header.frame_id = velocity.header.frame_id; // frame in wich odometry is done (in this case it corresponds to the world rs)
+    current_pose.header.frame_id = "odom"; // frame in wich odometry is done (in this case it corresponds to the world rs)
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
@@ -107,7 +105,7 @@ void Node2::Integration(int &mode)
     current_pose.header.stamp.sec = T1 - t2 * 1e-9;
     current_pose.header.stamp.nsec = (T1 - t1) * 1e9;
     // Child frame Id
-    current_pose.child_frame_id = "base_link"; // robot's local rs
+    current_pose.child_frame_id = velocity.header.frame_id; // robot's local rs
     // Transformation from quaternions to euler angles
     tf2::Quaternion quat_current;
     quat_current.setX(current_pose.pose.pose.orientation.x);
@@ -136,18 +134,17 @@ void Node2::Integration(int &mode)
     switch (mode)
     {
     case 0:
-        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw + velocity.twist.linear.y * sin_yaw) * dT;
+        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw - velocity.twist.linear.y * sin_yaw) * dT;
         current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw + velocity.twist.linear.y * cos_yaw) * dT;
-        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
+        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z +  velocity.twist.linear.z * dT;
         break;
     case 1:
     {
         double theta = yaw + (velocity.twist.angular.z * dT) / 2;
-        double cos_theta = std::abs(cos(theta));
-        double sin_theta = std::abs(sin(theta));
-        ROS_INFO("%f %f", cos_theta, sin_theta);
-        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw * cos_theta + velocity.twist.linear.y * sin_yaw * sin_theta) * dT;
-        current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw * sin_theta + velocity.twist.linear.y * cos_yaw * cos_theta) * dT;
+        double cos_theta = cos(theta);
+        double sin_theta = sin(theta);
+        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_theta - velocity.twist.linear.y * sin_theta) * dT;
+        current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_theta + velocity.twist.linear.y * cos_theta) * dT;
         current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
         break;
     }
@@ -162,7 +159,6 @@ void Node2::Integration(int &mode)
 
     // Covariance is left to 0
 }
-// ************************************************************************************
 
 void Node2::callback_tf2(const nav_msgs::Odometry &msg)
 {
