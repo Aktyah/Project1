@@ -8,6 +8,7 @@
 #include "geometry_msgs/TwistStamped.h"
 #include "Prj1/wheels.h"
 #include "math.h"
+#include "std_msgs/Header.h"
 
 class Subscriber {
   public:
@@ -20,18 +21,10 @@ class Subscriber {
             n.getParam("/width",  w);
             }
 
- void main_loop() {
-   ros::Rate loop_rate(10);
-
-   while (ros::ok()) {
-      //velocity_pub.publish(wheels_vel) ;
-     ros::spinOnce();
-     loop_rate.sleep();
-     }
- }
 
  void chatterCallback(const geometry_msgs::TwistStamped::ConstPtr& msg) {
-  
+   
+   
   
    v_bx=msg->twist.linear.x;
    v_by=msg->twist.linear.y; 
@@ -40,7 +33,11 @@ class Subscriber {
   // ROS_INFO("v_bx: [%f]", v_bx); 
   // ROS_INFO("v_by: [%f]", v_by); 
   // ROS_INFO("w_bz: [%f]", w_bz); 
- 
+
+   wheels_vel.header.frame_id = msg->header.frame_id;
+   wheels_vel.header.stamp.sec = msg->header.stamp.sec;
+   wheels_vel.header.stamp.nsec = msg->header.stamp.nsec;
+   
    u1=1/r*((-l-w)*w_bz+v_bx-v_by); 
    u2=1/r*((l+w)*w_bz+v_bx+v_by); 
    u3=1/r*((l+w)*w_bz+v_bx-v_by); 
@@ -77,6 +74,10 @@ private:
    double r;
    double l;
    double w;   
+
+   std_msgs::Header header1;
+
+
   
    Prj1::wheels wheels_vel;
 };
@@ -88,6 +89,6 @@ int main(int argc, char **argv) {
  
  Subscriber Node3;
 
- Node3.main_loop();
+  ros::spin();
   return 0;
 }
