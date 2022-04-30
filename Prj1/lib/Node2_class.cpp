@@ -37,6 +37,7 @@ void Node2::callbackConf(parNode2::parametersConfig &con)
 
 void Node2::setFirstPose(ros::NodeHandle n)
 {
+    current_pose.header.frame_id = "odom"; // frame_id in wich odometry is done 
     this->n.getParam("FirstPoseX", current_pose.pose.pose.position.x);
     this->n.getParam("FirstPoseY", current_pose.pose.pose.position.y);
     this->n.getParam("FirstPoseZ", current_pose.pose.pose.position.z);
@@ -48,27 +49,44 @@ void Node2::setFirstPose(ros::NodeHandle n)
 
 bool Node2::pose_callback(Prj1::pose::Request &req, Prj1::pose::Response &res)
 {
+    nav_msgs::Odometry current_pose_world;
+    // set header
+    current_pose_world.header.frame_id = current_pose.header.frame_id;
+
     // Set the new X Y coord's
-    current_pose.pose.pose.position.x = req.x;
-    current_pose.pose.pose.position.y = req.y;
+    current_pose_world.pose.pose.position.x = req.x;
+    current_pose_world.pose.pose.position.y = req.y;
 
     // Set the new theta with quaternions
     tf2::Quaternion quat;
     double roll, pitch, yaw;
     // old pose
-    quat.setX(current_pose.pose.pose.orientation.x);
-    quat.setY(current_pose.pose.pose.orientation.y);
-    quat.setZ(current_pose.pose.pose.orientation.z);
-    quat.setW(current_pose.pose.pose.orientation.w);
+    quat.setX(current_pose_world.pose.pose.orientation.x);
+    quat.setY(current_pose_world.pose.pose.orientation.y);
+    quat.setZ(current_pose_world.pose.pose.orientation.z);
+    quat.setW(current_pose_world.pose.pose.orientation.w);
     quat.setRPY(roll, pitch, yaw);
 
     // set new pose (with the new yaw angle)
     yaw = req.theta;
     quat.setRPY(roll, pitch, yaw);
-    current_pose.pose.pose.orientation.x = quat.getX();
-    current_pose.pose.pose.orientation.y = quat.getY();
-    current_pose.pose.pose.orientation.z = quat.getZ();
-    current_pose.pose.pose.orientation.w = quat.getW();
+    current_pose_world.pose.pose.orientation.x = quat.getX();
+    current_pose_world.pose.pose.orientation.y = quat.getY();
+    current_pose_world.pose.pose.orientation.z = quat.getZ();
+    current_pose_world.pose.pose.orientation.w = quat.getW();
+
+    Node2::callback_tf2(current_pose_world);
+
+    current_pose.pose.pose.position.x = 0;
+    current_pose.pose.pose.position.y = 0;
+
+    tf2::Quaternion q;
+    q.setEuler(0,0,0);
+    current_pose.pose.pose.orientation.x = q.getX();
+    current_pose.pose.pose.orientation.y = q.getY();
+    current_pose.pose.pose.orientation.z = q.getZ();
+    current_pose.pose.pose.orientation.w = q.getW();
+
     ROS_INFO("OLD POSE:  %f  %f  %f", res.old_x, res.old_y, res.old_theta);
     ROS_INFO("NEW POSE:  %f  %f  %f", req.x, req.y, req.theta);
     return true;
@@ -94,8 +112,7 @@ void Node2::Integration(int &mode)
 {
     // Header
     current_pose.header.seq = velocity.header.seq;
-    //current_pose.header.frame_id = velocity.header.frame_id; // frame in wich odometry is done (in this case it corresponds to the world rs)
-    current_pose.header.frame_id = "odom"; // frame in wich odometry is done (in this case it corresponds to the world rs)
+//  current_pose.header.frame_id = "odom"; // frame in wich odometry is done 
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
@@ -164,8 +181,9 @@ void Node2::callback_tf2(const nav_msgs::Odometry &msg)
 {
     // set header
     transformStamped.header.stamp = msg.header.stamp;
-    transformStamped.header.frame_id = msg.header.frame_id;
-    transformStamped.child_frame_id = msg.child_frame_id;
+    transformStamped.header.frame_id = "world";
+    transformStamped.child_frame_id = msg.header.frame_id;
+    if(transformStamped.child_frame_id == "odom") {ROS_INFO("right");}
     // set x,y
     transformStamped.transform.translation.x = msg.pose.pose.position.x;
     transformStamped.transform.translation.y = msg.pose.pose.position.y;
@@ -181,15 +199,13 @@ void Node2::callback_tf2(const nav_msgs::Odometry &msg)
 
 void Node2::run_node()
 {
-    dynServer.setCallback(call);
-    Node2::Odom_publisher.publish(current_pose);
     setFirstPose(n);
-
+    dynServer.setCallback(call);
+    callback_tf2(current_pose);
     ros::Rate loop_rate(10);
     while (ros::ok())
     {
         Node2::Integration(mode);
-        Node2::callback_tf2(current_pose);
         Node2::Odom_publisher.publish(current_pose);
         ros::spinOnce();
     }

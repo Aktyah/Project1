@@ -26,14 +26,13 @@ public:
     stamped.header = msg->header;
     stamped.pose = msg->pose;
 
-    std::string odom = "odom";
     static tf2_ros::StaticTransformBroadcaster static_broadcaster;
     geometry_msgs::TransformStamped static_transformStamped;
 
     static_transformStamped.header.frame_id = "world";
     static_transformStamped.header.stamp = stamped.header.stamp;
     static_transformStamped.header.seq = stamped.header.seq;
-    static_transformStamped.child_frame_id = odom;
+    static_transformStamped.child_frame_id = "odom";
     static_transformStamped.transform.translation.x = stamped.pose.position.x;
     static_transformStamped.transform.translation.y = stamped.pose.position.y;
     static_transformStamped.transform.translation.z = stamped.pose.position.z;
