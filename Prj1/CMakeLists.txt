@@ -40,10 +40,6 @@ add_executable(Node1 src/Node1.cpp)
 add_dependencies(Node1 ${catkin_EXPORTED_TARGETS})
 target_link_libraries(Node1 ${catkin_LIBRARIES})
 
-add_executable(FirstPose src/first_pose.cpp)
-add_dependencies(FirstPose ${catkin_EXPORTED_TARGETS})
-target_link_libraries(FirstPose ${catkin_LIBRARIES})
-
 add_executable(Node2 src/Node2.cpp)
 add_dependencies(Node2 ${catkin_EXPORTED_TARGETS})
 target_link_libraries(Node2 ${catkin_LIBRARIES} Node2_class)

@@ -15,9 +15,11 @@
 #include <tf2/LinearMath/Quaternion.h>
 #include <tf2_ros/transform_broadcaster.h>
 #include <geometry_msgs/TransformStamped.h>
+#include <tf2_ros/static_transform_broadcaster.h>
 
 #include <cmath>
 #include <iostream>
+#include <cstdio>
 
 #include "Node2_class/Node2_class.h"
 
@@ -27,6 +29,7 @@ Node2::Node2()
     this->Odom_publisher = this->n.advertise<nav_msgs::Odometry>("odom", 1000);
     this->service = this->n.advertiseService("new_pose", &Node2::pose_callback, this);
     this->call = boost::bind(&Node2::callbackConf, this, _1);
+    this->first_pose_sub = n.subscribe <geometry_msgs::PoseStamped>("/robot/pose", 1000, &Node2::reset_bag, this);
 }
 
 void Node2::callbackConf(parNode2::parametersConfig &con)
@@ -37,7 +40,7 @@ void Node2::callbackConf(parNode2::parametersConfig &con)
 
 void Node2::setFirstPose(ros::NodeHandle n)
 {
-    current_pose.header.frame_id = "odom"; // frame_id in wich odometry is done 
+    current_pose.header.frame_id = "odom"; // frame_id in wich odometry is done
     this->n.getParam("FirstPoseX", current_pose.pose.pose.position.x);
     this->n.getParam("FirstPoseY", current_pose.pose.pose.position.y);
     this->n.getParam("FirstPoseZ", current_pose.pose.pose.position.z);
@@ -81,13 +84,12 @@ bool Node2::pose_callback(Prj1::pose::Request &req, Prj1::pose::Response &res)
     current_pose.pose.pose.position.y = 0;
 
     tf2::Quaternion q;
-    q.setEuler(0,0,0);
+    q.setEuler(0, 0, 0);
     current_pose.pose.pose.orientation.x = q.getX();
     current_pose.pose.pose.orientation.y = q.getY();
     current_pose.pose.pose.orientation.z = q.getZ();
     current_pose.pose.pose.orientation.w = q.getW();
 
-    ROS_INFO("OLD POSE:  %f  %f  %f", res.old_x, res.old_y, res.old_theta);
     ROS_INFO("NEW POSE:  %f  %f  %f", req.x, req.y, req.theta);
     return true;
 }
@@ -95,10 +97,10 @@ bool Node2::pose_callback(Prj1::pose::Request &req, Prj1::pose::Response &res)
 void Node2::readVel(const geometry_msgs::TwistStamped::ConstPtr &msg)
 {
     // Header
-    velocity.header.seq        = msg->header.seq;
-    velocity.header.stamp.sec  = msg->header.stamp.sec;
+    velocity.header.seq = msg->header.seq;
+    velocity.header.stamp.sec = msg->header.stamp.sec;
     velocity.header.stamp.nsec = msg->header.stamp.nsec;
-    velocity.header.frame_id   = msg->header.frame_id;
+    velocity.header.frame_id = msg->header.frame_id;
     // Twist
     velocity.twist.linear.x = msg->twist.linear.x;
     velocity.twist.linear.y = msg->twist.linear.y;
@@ -112,7 +114,7 @@ void Node2::Integration(int &mode)
 {
     // Header
     current_pose.header.seq = velocity.header.seq;
-//  current_pose.header.frame_id = "odom"; // frame in wich odometry is done 
+    //  current_pose.header.frame_id = "odom"; // frame in wich odometry is done
     // dT definition and definition of T1 for the next iteration
     double t1 = velocity.header.stamp.sec;
     double t2 = velocity.header.stamp.nsec;
@@ -153,7 +155,7 @@ void Node2::Integration(int &mode)
     case 0:
         current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw - velocity.twist.linear.y * sin_yaw) * dT;
         current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw + velocity.twist.linear.y * cos_yaw) * dT;
-        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z +  velocity.twist.linear.z * dT;
+        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
         break;
     case 1:
     {
@@ -181,9 +183,8 @@ void Node2::callback_tf2(const nav_msgs::Odometry &msg)
 {
     // set header
     transformStamped.header.stamp = msg.header.stamp;
-    transformStamped.header.frame_id = "world";
+    transformStamped.header.frame_id = main_frame_id;
     transformStamped.child_frame_id = msg.header.frame_id;
-    if(transformStamped.child_frame_id == "odom") {ROS_INFO("right");}
     // set x,y
     transformStamped.transform.translation.x = msg.pose.pose.position.x;
     transformStamped.transform.translation.y = msg.pose.pose.position.y;
@@ -197,16 +198,50 @@ void Node2::callback_tf2(const nav_msgs::Odometry &msg)
     br.sendTransform(transformStamped);
 }
 
-void Node2::run_node()
+void Node2::reset_bag(const geometry_msgs::PoseStamped::ConstPtr &msg)
 {
-    setFirstPose(n);
-    dynServer.setCallback(call);
-    callback_tf2(current_pose);
-    ros::Rate loop_rate(10);
-    while (ros::ok())
+    if (msg->header.seq != old_seq+1)
     {
-        Node2::Integration(mode);
-        Node2::Odom_publisher.publish(current_pose);
-        ros::spinOnce();
+        stamped.header = msg->header;
+        stamped.pose = msg->pose;
+
+        static tf2_ros::StaticTransformBroadcaster static_broadcaster;
+        geometry_msgs::TransformStamped static_transformStamped;
+
+        static_transformStamped.header.frame_id = main_frame_id;
+        static_transformStamped.child_frame_id = current_pose.header.frame_id;
+        static_transformStamped.transform.translation.x = stamped.pose.position.x;
+        static_transformStamped.transform.translation.y = stamped.pose.position.y;
+        static_transformStamped.transform.translation.z = stamped.pose.position.z;
+        static_transformStamped.transform.rotation.x = stamped.pose.orientation.x;
+        static_transformStamped.transform.rotation.y = stamped.pose.orientation.y;
+        static_transformStamped.transform.rotation.z = stamped.pose.orientation.z;
+        static_transformStamped.transform.rotation.w = stamped.pose.orientation.w;
+
+        static_broadcaster.sendTransform(static_transformStamped);
+
+    tf2::Quaternion q;
+    q.setEuler(0, 0, 0);
+    current_pose.pose.pose.orientation.x = q.getX();
+    current_pose.pose.pose.orientation.y = q.getY();
+    current_pose.pose.pose.orientation.z = q.getZ();
+    current_pose.pose.pose.orientation.w = q.getW();
+    current_pose.pose.pose.position.x = 0;
+    current_pose.pose.pose.position.y = 0;
     }
+    old_seq = msg->header.seq;
 }
+
+    void Node2::run_node()
+    {
+        setFirstPose(n);
+        dynServer.setCallback(call);
+        callback_tf2(current_pose);
+        ros::Rate loop_rate(10);
+        while (ros::ok())
+        {  
+            Node2::Integration(mode);
+            Node2::Odom_publisher.publish(current_pose);
+            ros::spinOnce();
+        }
+    }

@@ -38,10 +38,10 @@ public:
   position_3 = msg->position[3];
   position_4 = msg->position[2];
 
-  ROS_INFO("position_1: %d", position_1);
-  ROS_INFO("position_2: %d", position_2);
-  ROS_INFO("position_3: %d", position_3);
-  ROS_INFO("position_4: %d", position_4);
+  // ROS_INFO("position_1: %d", position_1);
+  // ROS_INFO("position_2: %d", position_2);
+  // ROS_INFO("position_3: %d", position_3);
+  // ROS_INFO("position_4: %d", position_4);
 
   if(flag==1){
     past_sec = sec;
@@ -77,11 +77,11 @@ public:
     u3 = delta_theta_3/delta_t;
     u4 = delta_theta_4/delta_t;
 
-    ROS_INFO("-----m/s-----");
-    ROS_INFO("u1: %f", u1*r);
-    ROS_INFO("u2: %f", u2*r);
-    ROS_INFO("u3: %f", u3*r);
-    ROS_INFO("u4: %f", u4*r);
+  //  ROS_INFO("-----m/s-----");
+  //  ROS_INFO("u1: %f", u1*r);
+  //  ROS_INFO("u2: %f", u2*r);
+  //  ROS_INFO("u3: %f", u3*r);
+  //  ROS_INFO("u4: %f", u4*r);
 
     //velocità del robot [m/s e rad/s]
     w_bz = r/4/(l+w)*(-u1+u2+u3-u4);
@@ -89,9 +89,9 @@ public:
     v_by = r/4*(-u1+u2-u3+u4);
 
 
-    ROS_INFO("v_bx: %f", v_bx);
-    ROS_INFO("v_by: %f", v_by);
-    ROS_INFO("w_bz: %f", w_bz);
+    // ROS_INFO("v_bx: %f", v_bx);
+    // ROS_INFO("v_by: %f", v_by);
+    // ROS_INFO("w_bz: %f", w_bz);
 
     //creo messaggio di tipo geometry_msgs/TwistStamped
     geom_msg.header.frame_id = "base_link";

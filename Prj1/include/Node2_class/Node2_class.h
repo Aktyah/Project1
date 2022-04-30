@@ -21,7 +21,7 @@ class Node2
     int mode;
     // Publications
     ros::Publisher Odom_publisher;
-    // Subscriber
+    // Subscribers
     ros::Subscriber reader;
     // TF2 broadcaster
     tf2_ros::TransformBroadcaster br; //
@@ -32,6 +32,15 @@ class Node2
     // Dynamic reconfigure declarations
     dynamic_reconfigure::Server<parNode2::parametersConfig> dynServer;
     dynamic_reconfigure::Server<parNode2::parametersConfig>::CallbackType call;
+
+    const std::string main_frame_id = "world";
+    
+    // bag reconfigure possition
+    geometry_msgs::PoseStamped stamped;
+    ros::Subscriber first_pose_sub;
+
+    // flag for the reset of the bag
+    int old_seq = 0;
 
     // Dynamic configure function (Odometry integration method choice)
     void callbackConf(parNode2::parametersConfig &con);
@@ -50,6 +59,9 @@ class Node2
 
     // Broadcast the transformation between odom and base_link
     void callback_tf2(const nav_msgs::Odometry &msg);
+
+    // Reset position at every new bag
+    void reset_bag(const geometry_msgs::PoseStamped::ConstPtr& msg);
 
     //********************************************************************************************************************
 public:
