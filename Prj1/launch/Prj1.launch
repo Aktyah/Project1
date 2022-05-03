@@ -14,4 +14,6 @@
 
     <node pkg="Prj1" type="Node1" name="listener"    output="screen" />
     <node pkg="Prj1" type="Node2" name="Node2"    output="screen" />
+    <node pkg="Prj1" type="Node3" name="Node3"    output="screen" />
+ 
 </launch>
