@@ -14,5 +14,4 @@
 
     <node pkg="Prj1" type="Node1" name="listener"    output="screen" />
     <node pkg="Prj1" type="Node2" name="Node2"    output="screen" />
-    <node pkg="Prj1" type="FirstPose" name="first_pose" output="screen" />
 </launch>
