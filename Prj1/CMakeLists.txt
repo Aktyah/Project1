@@ -48,6 +48,10 @@ add_library(Node2_class lib/Node2_class.cpp)
 add_dependencies(Node2_class ${catkin_EXPORTED_TARGETS})
 target_link_libraries(Node2_class ${catkin_LIBRARIES})
 
-#add_library(Node3 lib/Node3.cpp)
-#add_dependencies(Node3 ${catkin_EXPORTED_TARGETS})
-#target_link_libraries(Node3 ${catkin_LIBRARIES})
+add_executable(Node3 src/Node3.cpp)
+add_dependencies(Node3 ${catkin_EXPORTED_TARGETS})
+target_link_libraries(Node3 ${catkin_LIBRARIES})
+
+add_executable(Node4 src/Node4.cpp)
+add_dependencies(Node4 ${catkin_EXPORTED_TARGETS})
+target_link_libraries(Node4 ${catkin_LIBRARIES})
