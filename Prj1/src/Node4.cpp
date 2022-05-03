@@ -12,6 +12,9 @@
 #include <message_filters/time_synchronizer.h>
 #include <iostream>
 #include <fstream>
+#include "Prj1/v_computed.h"
+#include "Prj1/v_bag.h"
+#include "Prj1/wheels.h"
 
 #define N 100000
 
@@ -22,12 +25,13 @@ public:
   {
     velocity_bag = n.subscribe<sensor_msgs::JointState>("wheel_states", 1000, &Subscriber::Callback,this);
     velocity_sub = n.subscribe<geometry_msgs::TwistStamped>("cmd_vel", 1000, &Subscriber::chatterCallback,this);
+    v_sub = n.advertise<Prj1::v_computed>("velocity_computed", 1000);
+    v_bag = n.advertise<Prj1::v_bag>("velocity_bag", 1000);
 
     n.getParam("/radius", r);
     n.getParam("/lenght", l);
     n.getParam("/width",  w);
-    fout1.open("v_bag.txt");
-    fout2.open("v_computed.txt");
+  
     i=0;
     flag1 = 1;
     flag2 = 1;
@@ -35,42 +39,37 @@ public:
 
   void Callback(const sensor_msgs::JointState::ConstPtr& msg_bag)
   {
-    if(flag1 == 1 && flag2 == 1) {
-      flag1 = 0;
-       } 
-    else if(flag1 == 0 && flag2 == 1){
-      flag2 = 0;
-       } 
-     else {
-      u1_bag=msg_bag->velocity[0];
-      u2_bag=msg_bag->velocity[1];
-      u3_bag=msg_bag->velocity[2];
-      u4_bag=msg_bag->velocity[3];
+    // if(flag1 == 1 && flag2 == 1) {
+    //   flag1 = 0;
+    //    } 
+    // else if(flag1 == 0 && flag2 == 1){
+    //   flag2 = 0;
+    //    } 
+    //  else {
+      u1_bag=msg_bag->velocity[0]; // fl
+      u2_bag=msg_bag->velocity[1]; // fr
+      u4_bag=msg_bag->velocity[2]; // rl
+      u3_bag=msg_bag->velocity[3]; // rr
       
-      wz_bag = r/4/(l+w)*(-u1_bag+u2_bag+u3_bag-u4_bag);
-      
-      v_bag[i]=wz_bag; 
+      //vvb.vbag = r/4/(l+w)*(-u1_bag+u2_bag+u3_bag-u4_bag); w_z
+      vvb.vbag = r/4*(u1_bag+u2_bag+u3_bag+u4_bag);
+      v_bag.publish(vvb);
 
-      // ROS_INFO("%f \n",v_bag[i]);
-      
-      fout1<<v_bag[i];
-      fout1<<"b\n";
-      fout1.close();
-      
-      i++;
-    }
+    
   }
 
-void chatterCallback(const geometry_msgs::TwistStamped::ConstPtr &msg_computed){
+void chatterCallback(const geometry_msgs::TwistStamped::ConstPtr& msg){
+        
+        vvc.vcomputed= msg->twist.linear.x;
 
-        v_comp[i]=msg_computed->twist.angular.z;
-      
-       ROS_INFO("%f \n",v_comp[i]);
-      
-      fout2 << v_comp[i];
-      fout2 <<"a\n";
-      fout2.close();
-}
+        vvc.vcomputed=vvc.vcomputed*60*5;
+        //vvc.vcomputed = r/4/(l+w)*(-u1_computed+u2_computed+u3_computed-u4_computed); w_z
+        
+        // vvc.vcomputed = r/4*(u1_computed+u2_computed+u3_computed+u4_computed);
+
+        v_sub.publish(vvc);
+         
+ }
 
 
 private:
@@ -79,8 +78,12 @@ private:
   ros::Subscriber velocity_bag;
   ros::Subscriber velocity_sub;
 
-  std::ofstream fout1;
-  std::ofstream fout2;
+  ros::Publisher  v_sub;
+  ros::Publisher  v_bag;
+
+  Prj1::v_computed  vvc;
+  Prj1::v_bag       vvb;
+  Prj1::wheels      vvw;
 
   double r;
   double l;
@@ -91,6 +94,11 @@ private:
    float u3_bag; 
    float u4_bag; 
 
+   float u1_computed; 
+   float u2_computed; 
+   float u3_computed; 
+   float u4_computed; 
+
   int i;
   float vx_computed;
   float vy_computed;
@@ -100,8 +108,6 @@ private:
   float vy_bag;
   float wz_bag;
 
-  float v_bag[N];
-  float v_comp[N];
   bool flag1 ;
   bool flag2 ;
   
