@@ -29,7 +29,7 @@ Node2::Node2()
     this->Odom_publisher = this->n.advertise<nav_msgs::Odometry>("odom", 1000);
     this->service = this->n.advertiseService("new_pose", &Node2::pose_callback, this);
     this->call = boost::bind(&Node2::callbackConf, this, _1);
-    this->first_pose_sub = n.subscribe <geometry_msgs::PoseStamped>("/robot/pose", 1000, &Node2::reset_bag, this);
+    this->first_pose_sub = n.subscribe<geometry_msgs::PoseStamped>("/robot/pose", 1000, &Node2::reset_bag, this);
 }
 
 void Node2::callbackConf(parNode2::parametersConfig &con)
@@ -177,6 +177,25 @@ void Node2::Integration(int &mode)
     current_pose.pose.pose.orientation.w = quat_current.getW();
 
     // Covariance is left to 0
+
+    
+    // set header
+    transformStamped_2.header.stamp = current_pose.header.stamp;
+    transformStamped_2.header.frame_id = "odom";
+    transformStamped_2.child_frame_id = "base_link";
+    // set x,y
+    transformStamped_2.transform.translation.x = current_pose.pose.pose.position.x;
+    transformStamped_2.transform.translation.y = current_pose.pose.pose.position.y;
+    transformStamped_2.transform.translation.z = current_pose.pose.pose.position.z;
+    // set theta
+    transformStamped_2.transform.rotation.x = current_pose.pose.pose.orientation.x;
+    transformStamped_2.transform.rotation.y = current_pose.pose.pose.orientation.y;
+    transformStamped_2.transform.rotation.z = current_pose.pose.pose.orientation.z;
+    transformStamped_2.transform.rotation.w = current_pose.pose.pose.orientation.w;
+    // send transform
+    br2.sendTransform(transformStamped_2);
+
+
 }
 
 void Node2::callback_tf2(const nav_msgs::Odometry &msg)
@@ -200,48 +219,61 @@ void Node2::callback_tf2(const nav_msgs::Odometry &msg)
 
 void Node2::reset_bag(const geometry_msgs::PoseStamped::ConstPtr &msg)
 {
-    if (msg->header.seq != old_seq+1)
+    if (msg->header.seq != old_seq + 1)
     {
         stamped.header = msg->header;
         stamped.pose = msg->pose;
 
         static tf2_ros::StaticTransformBroadcaster static_broadcaster;
         geometry_msgs::TransformStamped static_transformStamped;
+        tf2::Quaternion q;
 
         static_transformStamped.header.frame_id = main_frame_id;
         static_transformStamped.child_frame_id = current_pose.header.frame_id;
         static_transformStamped.transform.translation.x = stamped.pose.position.x;
         static_transformStamped.transform.translation.y = stamped.pose.position.y;
         static_transformStamped.transform.translation.z = stamped.pose.position.z;
-        static_transformStamped.transform.rotation.x = stamped.pose.orientation.x;
-        static_transformStamped.transform.rotation.y = stamped.pose.orientation.y;
-        static_transformStamped.transform.rotation.z = stamped.pose.orientation.z;
-        static_transformStamped.transform.rotation.w = stamped.pose.orientation.w;
+
+        q.setX(stamped.pose.orientation.x);
+        q.setY(stamped.pose.orientation.y);
+        q.setZ(stamped.pose.orientation.z);
+        q.setW(stamped.pose.orientation.w);
+
+
+        double roll, pitch, yaw;
+        tf2::Matrix3x3(q).getRPY(roll, pitch, yaw);
+
+        q.setEuler(0, 0, yaw);
+
+        static_transformStamped.transform.rotation.x = q.getX();
+        static_transformStamped.transform.rotation.y = q.getY();
+        static_transformStamped.transform.rotation.z = q.getZ();
+        static_transformStamped.transform.rotation.w = q.getW();
 
         static_broadcaster.sendTransform(static_transformStamped);
 
-    tf2::Quaternion q;
-    q.setEuler(0, 0, 0);
-    current_pose.pose.pose.orientation.x = q.getX();
-    current_pose.pose.pose.orientation.y = q.getY();
-    current_pose.pose.pose.orientation.z = q.getZ();
-    current_pose.pose.pose.orientation.w = q.getW();
-    current_pose.pose.pose.position.x = 0;
-    current_pose.pose.pose.position.y = 0;
+        q.setEuler(0, 0, 0);
+        current_pose.pose.pose.orientation.x = q.getX();
+        current_pose.pose.pose.orientation.y = q.getY();
+        current_pose.pose.pose.orientation.z = q.getZ();
+        current_pose.pose.pose.orientation.w = q.getW();
+        current_pose.pose.pose.position.x = 0;
+        current_pose.pose.pose.position.y = 0;
+        current_pose.pose.pose.position.z = 0;
     }
     old_seq = msg->header.seq;
 }
 
-    void Node2::run_node()
+void Node2::run_node()
+{
+    setFirstPose(n);
+    dynServer.setCallback(call);
+    callback_tf2(current_pose);
+    ros::Rate loop_rate(1);
+    while (ros::ok())
     {
-        setFirstPose(n);
-        dynServer.setCallback(call);
-        callback_tf2(current_pose);
-        ros::Rate loop_rate(10);
-        while (ros::ok())
-        {  
-            Node2::Integration(mode);
-            Node2::Odom_publisher.publish(current_pose);
-            ros::spinOnce();
-        }
+        Node2::Integration(mode);
+        Node2::Odom_publisher.publish(current_pose);
+        ros::spinOnce();
     }
+}

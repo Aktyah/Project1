@@ -17,6 +17,8 @@ class Node2
     geometry_msgs::TwistStamped velocity;
     // Broadcaster data
     geometry_msgs::TransformStamped transformStamped; //
+    geometry_msgs::TransformStamped transformStamped_2; //
+
     // Integration method
     int mode;
     // Publications
@@ -25,6 +27,8 @@ class Node2
     ros::Subscriber reader;
     // TF2 broadcaster
     tf2_ros::TransformBroadcaster br; //
+    tf2_ros::TransformBroadcaster br2; //
+    
     // Service
     ros::ServiceServer service;
     // Node handle

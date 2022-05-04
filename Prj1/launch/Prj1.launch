@@ -2,7 +2,7 @@
 
     <param name="radius"	       type="double"  value = "0.077"/>
     <param name="lenght"           type="double"  value = "0.20"/>
-    <param name="width"		       type="double"  value = "0.158"/>
+    <param name="width"		       type="double"  value = "0.1545"/>
     <param name="cpr"              type="int"     value = "42"/>
     <param name="/FirstPoseX"      type="double"  value = "0"/>    
     <param name="/FirstPoseY"      type="double"  value = "0"/>

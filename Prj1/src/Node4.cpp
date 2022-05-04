@@ -51,8 +51,8 @@ public:
       u4_bag=msg_bag->velocity[2]; // rl
       u3_bag=msg_bag->velocity[3]; // rr
       
-      //vvb.vbag = r/4/(l+w)*(-u1_bag+u2_bag+u3_bag-u4_bag); w_z
-      vvb.vbag = r/4*(u1_bag+u2_bag+u3_bag+u4_bag);
+      vvb.vbag = r/4/(l+w)*(-u1_bag+u2_bag+u3_bag-u4_bag); 
+      //vvb.vbag = r/4*(u1_bag+u2_bag+u3_bag+u4_bag);
       v_bag.publish(vvb);
 
     
@@ -60,7 +60,8 @@ public:
 
 void chatterCallback(const geometry_msgs::TwistStamped::ConstPtr& msg){
         
-        vvc.vcomputed= msg->twist.linear.x;
+        //vvc.vcomputed= msg->twist.linear.x;
+        vvc.vcomputed= msg->twist.angular.z;
 
         vvc.vcomputed=vvc.vcomputed*60*5;
         //vvc.vcomputed = r/4/(l+w)*(-u1_computed+u2_computed+u3_computed-u4_computed); w_z
