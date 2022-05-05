@@ -120,6 +120,7 @@ void Node2::Integration(int &mode)
     double t2 = velocity.header.stamp.nsec;
     double T2 = t1 + t2 * 1e-9;
     double dT = T2 - T1;
+
     T1 = T2;
     current_pose.header.stamp.sec = T1 - t2 * 1e-9;
     current_pose.header.stamp.nsec = (T1 - t1) * 1e9;
@@ -148,37 +149,41 @@ void Node2::Integration(int &mode)
 
     // New quaternions due to the new yaw angle
     quat_current.setRPY(roll, pitch, yaw);
-
-    // Pose
-    switch (mode)
-    {
-    case 0:
-        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw - velocity.twist.linear.y * sin_yaw) * dT;
-        current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw + velocity.twist.linear.y * cos_yaw) * dT;
-        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
-        break;
-    case 1:
-    {
-        double theta = yaw + (velocity.twist.angular.z * dT) / 2;
-        double cos_theta = cos(theta);
-        double sin_theta = sin(theta);
-        current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_theta - velocity.twist.linear.y * sin_theta) * dT;
-        current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_theta + velocity.twist.linear.y * cos_theta) * dT;
-        current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
-        break;
+    if (integrate == 2){
+    
+        // Pose
+        switch (mode)
+        {
+        case 0:
+            current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_yaw - velocity.twist.linear.y * sin_yaw) * dT;
+            current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_yaw + velocity.twist.linear.y * cos_yaw) * dT;
+            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
+            break;
+        case 1:
+        {
+            double theta = yaw + (velocity.twist.angular.z * dT) / 2;
+            double cos_theta = cos(theta);
+            double sin_theta = sin(theta);
+            current_pose.pose.pose.position.x = current_pose.pose.pose.position.x + (velocity.twist.linear.x * cos_theta - velocity.twist.linear.y * sin_theta) * dT;
+            current_pose.pose.pose.position.y = current_pose.pose.pose.position.y + (velocity.twist.linear.x * sin_theta + velocity.twist.linear.y * cos_theta) * dT;
+            current_pose.pose.pose.position.z = current_pose.pose.pose.position.z + velocity.twist.linear.z * dT;
+            break;
+        }
+        default:
+            ROS_INFO("!! Something went wrong, no integration method is selected !!");
+            break;
+        }
+        current_pose.pose.pose.orientation.x = quat_current.getX();
+        current_pose.pose.pose.orientation.y = quat_current.getY();
+        current_pose.pose.pose.orientation.z = quat_current.getZ();
+        current_pose.pose.pose.orientation.w = quat_current.getW();
     }
-    default:
-        ROS_INFO("!! Something went wrong, no integration method is selected !!");
-        break;
+    else
+    {
+        integrate = integrate +1;
     }
-    current_pose.pose.pose.orientation.x = quat_current.getX();
-    current_pose.pose.pose.orientation.y = quat_current.getY();
-    current_pose.pose.pose.orientation.z = quat_current.getZ();
-    current_pose.pose.pose.orientation.w = quat_current.getW();
-
     // Covariance is left to 0
 
-    
     // set header
     transformStamped_2.header.stamp = current_pose.header.stamp;
     transformStamped_2.header.frame_id = "odom";
@@ -194,8 +199,6 @@ void Node2::Integration(int &mode)
     transformStamped_2.transform.rotation.w = current_pose.pose.pose.orientation.w;
     // send transform
     br2.sendTransform(transformStamped_2);
-
-
 }
 
 void Node2::callback_tf2(const nav_msgs::Odometry &msg)
@@ -239,7 +242,6 @@ void Node2::reset_bag(const geometry_msgs::PoseStamped::ConstPtr &msg)
         q.setZ(stamped.pose.orientation.z);
         q.setW(stamped.pose.orientation.w);
 
-
         double roll, pitch, yaw;
         tf2::Matrix3x3(q).getRPY(roll, pitch, yaw);
 
@@ -260,6 +262,7 @@ void Node2::reset_bag(const geometry_msgs::PoseStamped::ConstPtr &msg)
         current_pose.pose.pose.position.x = 0;
         current_pose.pose.pose.position.y = 0;
         current_pose.pose.pose.position.z = 0;
+        integrate = 0;
     }
     old_seq = msg->header.seq;
 }
