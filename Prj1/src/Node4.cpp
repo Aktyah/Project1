@@ -39,7 +39,6 @@ public:
 
   void Callback(const sensor_msgs::JointState::ConstPtr& msg_bag)
   {  
-    ROS_INFO("%d",P);
     if(flag1 == 1 && flag2 == 1) {
       flag1 = 0;
        } 
