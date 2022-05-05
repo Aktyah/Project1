@@ -11,6 +11,7 @@ class Node2
 
     // Time
     double T1 = 0;
+    int integrate = 2;
     // Pose of the robot
     nav_msgs::Odometry current_pose;
     // Velocity read from /cmd_vel
