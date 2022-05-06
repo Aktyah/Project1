@@ -42,19 +42,21 @@ class Subscriber {
    u2=1/r*((l+w)*w_bz+v_bx+v_by); 
    u3=1/r*((l+w)*w_bz+v_bx-v_by); 
    u4=1/r*((-l-w)*w_bz+v_bx+v_by);  
- 
-   wheels_vel.rpm_fl=u1*60*5; 
-   wheels_vel.rpm_fr=u2*60*5;
-   wheels_vel.rpm_rr=u3*60*5;
-   wheels_vel.rpm_rl=u4*60*5;
-
-   velocity_pub.publish(wheels_vel) ;
-
    
-    // ROS_INFO("u1: %f", u1); 
-    // ROS_INFO("u2: %f", u2); 
-    // ROS_INFO("u3: %f", u3);  
-    // ROS_INFO("u4: %f", u4); 
+
+   //CONVERSION TO RPM
+   wheels_vel.rpm_fl=u1*60/(2*3.14);
+   wheels_vel.rpm_fr=u2*60/(2*3.14);
+   wheels_vel.rpm_rr=u3*60/(2*3.14);
+   wheels_vel.rpm_rl=u4*60/(2*3.14);
+
+  // VELOCITIES FOR COMPARISON WITH BAG!
+  //  wheels_vel.rpm_fl=u1*60*5; 
+  //  wheels_vel.rpm_fr=u2*60*5;
+  //  wheels_vel.rpm_rr=u3*60*5;
+  //  wheels_vel.rpm_rl=u4*60*5;
+
+   velocity_pub.publish(wheels_vel) ; 
 
   }  
 private:
