@@ -1,0 +1,10102 @@
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -144.736117381
+---
+vcomputed: -182.17005663
+---
+vcomputed: -139.698475203
+---
+vcomputed: -180.537366384
+---
+vcomputed: -208.83964456
+---
+vcomputed: -133.358895737
+---
+vcomputed: -189.323749313
+---
+vcomputed: -160.134017682
+---
+vcomputed: -89.2716466174
+---
+vcomputed: -144.978288543
+---
+vcomputed: -132.672742074
+---
+vcomputed: -139.333430551
+---
+vcomputed: -137.703625662
+---
+vcomputed: -141.308323543
+---
+vcomputed: -161.596512218
+---
+vcomputed: -183.029494826
+---
+vcomputed: -114.616405743
+---
+vcomputed: -160.539790825
+---
+vcomputed: -91.6813520624
+---
+vcomputed: -181.706573958
+---
+vcomputed: -139.625647786
+---
+vcomputed: -137.917969661
+---
+vcomputed: -137.648931503
+---
+vcomputed: -159.352613987
+---
+vcomputed: -136.988072427
+---
+vcomputed: -161.404893046
+---
+vcomputed: -137.984187336
+---
+vcomputed: -159.841715183
+---
+vcomputed: -161.342391594
+---
+vcomputed: -136.048643101
+---
+vcomputed: -137.816355532
+---
+vcomputed: -183.523339879
+---
+vcomputed: -137.443429788
+---
+vcomputed: -160.661742167
+---
+vcomputed: -159.914230418
+---
+vcomputed: -138.087664464
+---
+vcomputed: -160.813956917
+---
+vcomputed: -160.631705341
+---
+vcomputed: -137.937342048
+---
+vcomputed: -137.265729662
+---
+vcomputed: -137.782515169
+---
+vcomputed: -183.795981818
+---
+vcomputed: -137.879241209
+---
+vcomputed: -183.456911692
+---
+vcomputed: -137.086876395
+---
+vcomputed: -149.550159334
+---
+vcomputed: -173.675425567
+---
+vcomputed: -171.728929386
+---
+vcomputed: -118.281738135
+---
+vcomputed: -160.418032329
+---
+vcomputed: -183.123351274
+---
+vcomputed: -159.208665236
+---
+vcomputed: -156.48856875
+---
+vcomputed: -164.703683988
+---
+vcomputed: -138.381169456
+---
+vcomputed: -202.743450924
+---
+vcomputed: -163.869346067
+---
+vcomputed: -138.301586312
+---
+vcomputed: -181.784354108
+---
+vcomputed: -158.33587894
+---
+vcomputed: -140.778253698
+---
+vcomputed: -161.140045317
+---
+vcomputed: -158.281195991
+---
+vcomputed: -158.941775134
+---
+vcomputed: -138.160526473
+---
+vcomputed: -137.884079384
+---
+vcomputed: -188.793700202
+---
+vcomputed: -157.685739802
+---
+vcomputed: -184.59492723
+---
+vcomputed: -159.055791157
+---
+vcomputed: -139.465355215
+---
+vcomputed: -156.403109405
+---
+vcomputed: -187.838977521
+---
+vcomputed: -162.267881263
+---
+vcomputed: -158.498345961
+---
+vcomputed: -184.043562202
+---
+vcomputed: -157.888555996
+---
+vcomputed: -164.321780069
+---
+vcomputed: -161.032460217
+---
+vcomputed: -158.778413629
+---
+vcomputed: -162.225750783
+---
+vcomputed: -183.813189203
+---
+vcomputed: -183.905693497
+---
+vcomputed: -157.001450035
+---
+vcomputed: -142.182977606
+---
+vcomputed: -178.130367357
+---
+vcomputed: -187.294871008
+---
+vcomputed: -115.714425838
+---
+vcomputed: -183.789525371
+---
+vcomputed: -138.00357833
+---
+vcomputed: -181.832743466
+---
+vcomputed: -113.684930957
+---
+vcomputed: 22.496087107
+---
+vcomputed: -22.7849932697
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -69.5819749855
+---
+vcomputed: 40.905596787
+---
+vcomputed: 105.37441118
+---
+vcomputed: 46.0583648371
+---
+vcomputed: -22.8480791765
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0367471733
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0391784213
+---
+vcomputed: -22.7974240704
+---
+vcomputed: 22.5900127692
+---
+vcomputed: -23.5720220999
+---
+vcomputed: -22.7275142773
+---
+vcomputed: 45.0215683613
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.1053170802
+---
+vcomputed: 23.5302268545
+---
+vcomputed: 22.4280104792
+---
+vcomputed: -23.3520104711
+---
+vcomputed: 23.008948458
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9083074216
+---
+vcomputed: 22.699408814
+---
+vcomputed: 0.0
+---
+vcomputed: -23.538122052
+---
+vcomputed: 45.8112718404
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9857900552
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8467492478
+---
+vcomputed: -22.9430971062
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.91793025
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.8310498697
+---
+vcomputed: 23.4168839044
+---
+vcomputed: 0.0
+---
+vcomputed: -45.5182361146
+---
+vcomputed: 22.4844976464
+---
+vcomputed: 22.9385418977
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5819285101
+---
+vcomputed: 0.0
+---
+vcomputed: -23.028104248
+---
+vcomputed: 22.3766493521
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5529181446
+---
+vcomputed: 22.8661684148
+---
+vcomputed: 23.214827595
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8749572606
+---
+vcomputed: 0.0
+---
+vcomputed: 22.947922902
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9796051357
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9173967598
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9452410291
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.201116744
+---
+vcomputed: 1.04252649873e-14
+---
+vcomputed: 22.9503354364
+---
+vcomputed: 0.0
+---
+vcomputed: -68.896092522
+---
+vcomputed: -22.7805006198
+---
+vcomputed: 22.9914409474
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.7819053477
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8877515781
+---
+vcomputed: 22.8149029082
+---
+vcomputed: -23.0057142783
+---
+vcomputed: -21.374074045
+---
+vcomputed: 23.1516133387
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1377037855
+---
+vcomputed: 23.1603503868
+---
+vcomputed: 23.188241925
+---
+vcomputed: -22.9144551375
+---
+vcomputed: -22.9618731234
+---
+vcomputed: 22.8720265224
+---
+vcomputed: 22.6486256799
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7238327023
+---
+vcomputed: -23.538122052
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4448371867
+---
+vcomputed: 22.8571196588
+---
+vcomputed: 22.9693925886
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3983410102
+---
+vcomputed: -46.6762719681
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3746092933
+---
+vcomputed: -23.0464786479
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.6851946403
+---
+vcomputed: -48.0371022476
+---
+vcomputed: -22.7762734053
+---
+vcomputed: 22.606393433
+---
+vcomputed: -22.8316114646
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0235140931
+---
+vcomputed: -45.8048636739
+---
+vcomputed: 22.9211402053
+---
+vcomputed: 43.8377954906
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -48.867179242
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6259252765
+---
+vcomputed: 45.2941185537
+---
+vcomputed: -46.4241682572
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9144551375
+---
+vcomputed: 0.0
+---
+vcomputed: -23.40823194
+---
+vcomputed: 0.0
+---
+vcomputed: 23.424424321
+---
+vcomputed: -22.676867917
+---
+vcomputed: 22.9345242962
+---
+vcomputed: 22.8866843723
+---
+vcomputed: -23.1715544434
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9372025408
+---
+vcomputed: 22.7630755408
+---
+vcomputed: 0.0
+---
+vcomputed: 44.159115685
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3572902051
+---
+vcomputed: 0.0
+---
+vcomputed: -46.502761397
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9310426147
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5923506319
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0235140931
+---
+vcomputed: -22.8395761002
+---
+vcomputed: 22.2458673304
+---
+vcomputed: -46.8449398599
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1767487048
+---
+vcomputed: -44.7130539927
+---
+vcomputed: 23.40823194
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6543739346
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5260173521
+---
+vcomputed: 23.3659014646
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7109565771
+---
+vcomputed: 22.4893894934
+---
+vcomputed: -23.4054425739
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2027607311
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.1288159764
+---
+vcomputed: -23.3631221771
+---
+vcomputed: -23.1270784079
+---
+vcomputed: 22.8109273849
+---
+vcomputed: -22.6952116385
+---
+vcomputed: 0.0
+---
+vcomputed: 65.8942110013
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6590779271
+---
+vcomputed: -47.6652052275
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0264826522
+---
+vcomputed: 22.9957484156
+---
+vcomputed: -22.9117822021
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7451489827
+---
+vcomputed: 22.5570617631
+---
+vcomputed: -23.1814001695
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8207347744
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0321547054
+---
+vcomputed: 22.9264921912
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6614312043
+---
+vcomputed: 42.33579174
+---
+vcomputed: 22.9157918391
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7953076802
+---
+vcomputed: 22.8037767099
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6457526462
+---
+vcomputed: 22.9045681663
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.1913232544
+---
+vcomputed: -22.9222117491
+---
+vcomputed: -47.7335506803
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4362098133
+---
+vcomputed: 23.8940700383
+---
+vcomputed: -22.029284131
+---
+vcomputed: 23.9649181687
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6284555276
+---
+vcomputed: 0.0
+---
+vcomputed: 42.2143119034
+---
+vcomputed: -50.1838674083
+---
+vcomputed: 0.0
+---
+vcomputed: 23.6449553175
+---
+vcomputed: 23.0570300771
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3071180879
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9125849142
+---
+vcomputed: 22.8573852042
+---
+vcomputed: -22.9992497752
+---
+vcomputed: -22.9683177559
+---
+vcomputed: 22.3802192807
+---
+vcomputed: 0.0
+---
+vcomputed: -47.0570699111
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6580319394
+---
+vcomputed: -22.8347968749
+---
+vcomputed: -22.9139202763
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7456759939
+---
+vcomputed: 23.0933586172
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6999326073
+---
+vcomputed: 22.9430971062
+---
+vcomputed: -23.0235140931
+---
+vcomputed: 0.0
+---
+vcomputed: 46.0200541938
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9514085867
+---
+vcomputed: 22.4613545121
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8738901302
+---
+vcomputed: -23.3887191591
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9919794338
+---
+vcomputed: 43.0234590327
+---
+vcomputed: -23.0944440459
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7818217383
+---
+vcomputed: -23.05026552
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1491583044
+---
+vcomputed: 0.0
+---
+vcomputed: 22.942560907
+---
+vcomputed: -23.6213515736
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8210005872
+---
+vcomputed: 22.9798735348
+---
+vcomputed: -22.9131185919
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9876733772
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3341545311
+---
+vcomputed: 23.4266591473
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0364763108
+---
+vcomputed: 0.0
+---
+vcomputed: 45.3752157384
+---
+vcomputed: -23.0887435523
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -46.5915651655
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 44.9813541232
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.9764233743
+---
+vcomputed: 45.4366273555
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1491583044
+---
+vcomputed: 22.668754053
+---
+vcomputed: 0.0
+---
+vcomputed: -22.361872688
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1439752572
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6559413497
+---
+vcomputed: 23.0038291292
+---
+vcomputed: 23.0005952585
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8255092273
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1080313527
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.1580247836
+---
+vcomputed: 22.8178179127
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8223252952
+---
+vcomputed: -23.1110228885
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.7117546859
+---
+vcomputed: 44.6464777861
+---
+vcomputed: -23.5141677641
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7902818576
+---
+vcomputed: -22.5187853339
+---
+vcomputed: 22.629314914
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4287785765
+---
+vcomputed: 22.8725583123
+---
+vcomputed: -23.4638840872
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.1835530702
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4113017131
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.828691822
+---
+vcomputed: 44.6226393981
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.1717118955
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9430971062
+---
+vcomputed: -23.0928153716
+---
+vcomputed: 22.7533176371
+---
+vcomputed: 23.0497243
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0051751483
+---
+vcomputed: 23.6874458719
+---
+vcomputed: 22.4374912993
+---
+vcomputed: 0.0
+---
+vcomputed: -46.231836903
+---
+vcomputed: 23.0189268992
+---
+vcomputed: -23.011644114
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5561903291
+---
+vcomputed: 22.8066888718
+---
+vcomputed: -67.7271937738
+---
+vcomputed: 23.3862124158
+---
+vcomputed: 22.7900167598
+---
+vcomputed: -23.0882005239
+---
+vcomputed: 22.7483114161
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1540711836
+---
+vcomputed: 0.0
+---
+vcomputed: 22.955164278
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9624113516
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9965558927
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7863149093
+---
+vcomputed: 0.0
+---
+vcomputed: 22.894688604
+---
+vcomputed: -23.0386388553
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0830447343
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9026984363
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7593813305
+---
+vcomputed: 22.1537770031
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1232662569
+---
+vcomputed: -22.6593388909
+---
+vcomputed: -23.1622624236
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0732834984
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7699371853
+---
+vcomputed: 0.0
+---
+vcomputed: -45.6711884031
+---
+vcomputed: 0.0
+---
+vcomputed: 43.4196081108
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8302845653
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8533959786
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7356702678
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9075061299
+---
+vcomputed: 0.0
+---
+vcomputed: 43.0758304938
+---
+vcomputed: -44.0699380947
+---
+vcomputed: 23.2238865587
+---
+vcomputed: -22.7099068957
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7731043008
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3779240431
+---
+vcomputed: 23.0297238069
+---
+vcomputed: -22.7931905735
+---
+vcomputed: 23.1824938904
+---
+vcomputed: 0.0
+---
+vcomputed: -22.311827861
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.370629171
+---
+vcomputed: 22.8970910773
+---
+vcomputed: -48.486559295
+---
+vcomputed: 42.0124896122
+---
+vcomputed: -23.3120982498
+---
+vcomputed: -73.8483263249
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4247043834
+---
+vcomputed: 22.2567074147
+---
+vcomputed: 45.0055774222
+---
+vcomputed: 22.7934546356
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8074842368
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.671895277
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1633554852
+---
+vcomputed: 0.0
+---
+vcomputed: 23.7872843595
+---
+vcomputed: -43.6429683437
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5939116562
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9123169635
+---
+vcomputed: -23.6338578682
+---
+vcomputed: 22.5182687842
+---
+vcomputed: -23.3156954542
+---
+vcomputed: 23.0391784213
+---
+vcomputed: -23.6734548944
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8917528079
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5412248061
+---
+vcomputed: -45.8091363326
+---
+vcomputed: 23.2307534198
+---
+vcomputed: 23.0551353739
+---
+vcomputed: 43.0135650269
+---
+vcomputed: -47.7515417467
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8994940549
+---
+vcomputed: 22.7325124515
+---
+vcomputed: -23.0467486113
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4408236329
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2104388201
+---
+vcomputed: -22.3336464168
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9648258073
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3372026363
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0532409821
+---
+vcomputed: -44.9103823944
+---
+vcomputed: 23.5655177204
+---
+vcomputed: -22.7311970455
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.5076900538
+---
+vcomputed: -23.163082783
+---
+vcomputed: -22.7049186561
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9664387303
+---
+vcomputed: 23.1102062125
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1178220174
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9377373659
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0543237779
+---
+vcomputed: -22.8595142536
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0591964824
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6467975005
+---
+vcomputed: -23.3475696789
+---
+vcomputed: -22.6839392105
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.096617488
+---
+vcomputed: -24.2978671223
+---
+vcomputed: -22.8533970939
+---
+vcomputed: 22.1640260285
+---
+vcomputed: -22.773897325
+---
+vcomputed: 22.3865962227
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1516133387
+---
+vcomputed: 22.4175148426
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0768073735
+---
+vcomputed: 22.9492623864
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4236574898
+---
+vcomputed: -22.9659014396
+---
+vcomputed: -22.5234331814
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5855966738
+---
+vcomputed: -23.3892752476
+---
+vcomputed: 21.9780101938
+---
+vcomputed: -23.4703312993
+---
+vcomputed: 23.5528004886
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8960230003
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.912583793
+---
+vcomputed: -23.4650046269
+---
+vcomputed: 23.0370169089
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4474923465
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8329385181
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0610907174
+---
+vcomputed: -23.3759142443
+---
+vcomputed: 44.885749418
+---
+vcomputed: -22.9540907764
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6737264129
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9272948117
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9147231382
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.6483638494
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5902721446
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5327357189
+---
+vcomputed: 0.0
+---
+vcomputed: 45.9581344576
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4708936284
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6071552826
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 24.7976163191
+---
+vcomputed: 160.317022859
+---
+vcomputed: 207.669303367
+---
+vcomputed: 205.324582365
+---
+vcomputed: 182.842061336
+---
+vcomputed: 160.474201974
+---
+vcomputed: 182.096159438
+---
+vcomputed: 92.0163923775
+---
+vcomputed: 179.23782628
+---
+vcomputed: 93.820784755
+---
+vcomputed: 136.779783101
+---
+vcomputed: 114.869800297
+---
+vcomputed: 184.425927857
+---
+vcomputed: 137.611964875
+---
+vcomputed: 138.295098633
+---
+vcomputed: 160.419900876
+---
+vcomputed: 137.034275057
+---
+vcomputed: 150.955771737
+---
+vcomputed: 146.868305391
+---
+vcomputed: 105.780198766
+---
+vcomputed: 168.736525123
+---
+vcomputed: 182.387863743
+---
+vcomputed: 135.046124636
+---
+vcomputed: 164.496770238
+---
+vcomputed: 139.060492229
+---
+vcomputed: 137.225764695
+---
+vcomputed: 159.945857016
+---
+vcomputed: 134.903896011
+---
+vcomputed: 164.347320911
+---
+vcomputed: 136.249985422
+---
+vcomputed: 158.080999336
+---
+vcomputed: 140.153726912
+---
+vcomputed: 160.208662066
+---
+vcomputed: 137.645721503
+---
+vcomputed: 162.308104719
+---
+vcomputed: 160.962705709
+---
+vcomputed: 136.048636513
+---
+vcomputed: 138.139468042
+---
+vcomputed: 184.449746781
+---
+vcomputed: 160.468584811
+---
+vcomputed: 183.869108387
+---
+vcomputed: 137.695581067
+---
+vcomputed: 137.050210998
+---
+vcomputed: 180.044996
+---
+vcomputed: 141.416855478
+---
+vcomputed: 182.957034445
+---
+vcomputed: 137.313710307
+---
+vcomputed: 179.89039772
+---
+vcomputed: 137.832473901
+---
+vcomputed: 163.799060848
+---
+vcomputed: 160.891116227
+---
+vcomputed: 159.782271994
+---
+vcomputed: 137.522034825
+---
+vcomputed: 159.422825077
+---
+vcomputed: 219.103390423
+---
+vcomputed: 121.715200422
+---
+vcomputed: 148.378374856
+---
+vcomputed: 144.700567592
+---
+vcomputed: 177.65102942
+---
+vcomputed: 140.939890371
+---
+vcomputed: 161.170264649
+---
+vcomputed: 164.249147427
+---
+vcomputed: 180.982382961
+---
+vcomputed: 176.493613814
+---
+vcomputed: 119.493611983
+---
+vcomputed: 160.446112235
+---
+vcomputed: 183.129752048
+---
+vcomputed: 138.107091343
+---
+vcomputed: 138.769002053
+---
+vcomputed: 182.44716627
+---
+vcomputed: 178.04760846
+---
+vcomputed: 166.09858057
+---
+vcomputed: 137.650543304
+---
+vcomputed: 182.062396565
+---
+vcomputed: 158.162838113
+---
+vcomputed: 157.901250283
+---
+vcomputed: 160.307669014
+---
+vcomputed: 183.621996826
+---
+vcomputed: 140.262158384
+---
+vcomputed: 158.739912723
+---
+vcomputed: 163.233121679
+---
+vcomputed: 183.025229284
+---
+vcomputed: 137.005594355
+---
+vcomputed: 159.856588739
+---
+vcomputed: 219.220778089
+---
+vcomputed: 159.741429955
+---
+vcomputed: 183.300670344
+---
+vcomputed: 129.991567051
+---
+vcomputed: 182.540426287
+---
+vcomputed: 124.967919324
+---
+vcomputed: 160.684275191
+---
+vcomputed: 182.148930701
+---
+vcomputed: 180.699319881
+---
+vcomputed: 169.921884207
+---
+vcomputed: 163.351426103
+---
+vcomputed: 139.625647786
+---
+vcomputed: 138.509664166
+---
+vcomputed: 160.85159194
+---
+vcomputed: 160.911833572
+---
+vcomputed: 182.604064917
+---
+vcomputed: 185.171442691
+---
+vcomputed: 179.682613591
+---
+vcomputed: 164.832045961
+---
+vcomputed: 135.354811381
+---
+vcomputed: 211.283485708
+---
+vcomputed: 138.464099197
+---
+vcomputed: 182.854832957
+---
+vcomputed: 182.113041145
+---
+vcomputed: 130.955097728
+---
+vcomputed: 163.963145373
+---
+vcomputed: 184.640492594
+---
+vcomputed: 162.371364802
+---
+vcomputed: 162.800140641
+---
+vcomputed: 159.73957718
+---
+vcomputed: 182.742109868
+---
+vcomputed: 156.415565946
+---
+vcomputed: 186.425970858
+---
+vcomputed: 157.037321543
+---
+vcomputed: 164.919042846
+---
+vcomputed: 156.298199472
+---
+vcomputed: 137.684318863
+---
+vcomputed: 164.327670236
+---
+vcomputed: 166.198986456
+---
+vcomputed: 155.339262781
+---
+vcomputed: 223.947642274
+---
+vcomputed: 144.613567071
+---
+vcomputed: 171.787134496
+---
+vcomputed: 189.916440456
+---
+vcomputed: 140.399195013
+---
+vcomputed: 155.991401675
+---
+vcomputed: 186.330895918
+---
+vcomputed: 156.847416881
+---
+vcomputed: 183.707867035
+---
+vcomputed: 162.486513955
+---
+vcomputed: 214.101886661
+---
+vcomputed: 44.1129971385
+---
+vcomputed: -23.5873095936
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -68.8405502327
+---
+vcomputed: -22.8475474094
+---
+vcomputed: 45.667469203
+---
+vcomputed: -22.6658770079
+---
+vcomputed: -45.7563073209
+---
+vcomputed: 22.8366555342
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.357288291
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6284567199
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8486109684
+---
+vcomputed: -23.0262131633
+---
+vcomputed: 23.0808749835
+---
+vcomputed: -22.9693925886
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2428505785
+---
+vcomputed: 22.6967847099
+---
+vcomputed: 0.0
+---
+vcomputed: -45.4918779124
+---
+vcomputed: 44.826331852
+---
+vcomputed: -23.1529778533
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.458837694
+---
+vcomputed: 22.4744636055
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4700925672
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3051809018
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 44.6256821291
+---
+vcomputed: -47.230204395
+---
+vcomputed: 0.0
+---
+vcomputed: -23.7493149277
+---
+vcomputed: 45.8727962059
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5228982306
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3047326991
+---
+vcomputed: 47.8854293477
+---
+vcomputed: 0.0
+---
+vcomputed: -24.1019646804
+---
+vcomputed: 0.0
+---
+vcomputed: 43.5153300734
+---
+vcomputed: -24.413544962
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6559402535
+---
+vcomputed: 23.2789400146
+---
+vcomputed: -22.809074022
+---
+vcomputed: -22.9465813249
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9195358821
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0229741285
+---
+vcomputed: 0.0
+---
+vcomputed: 44.1452213059
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -71.3921140736
+---
+vcomputed: 45.6887168821
+---
+vcomputed: -23.0121846781
+---
+vcomputed: -23.0705722459
+---
+vcomputed: 0.0
+---
+vcomputed: 21.7506764229
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4001292944
+---
+vcomputed: 23.3212321405
+---
+vcomputed: -22.8600454618
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9377384895
+---
+vcomputed: -49.6616990312
+---
+vcomputed: 0.0
+---
+vcomputed: 41.7881228905
+---
+vcomputed: -23.2318529555
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.3176317458
+---
+vcomputed: -69.1881481667
+---
+vcomputed: 46.3715559372
+---
+vcomputed: -22.8674983719
+---
+vcomputed: 22.5113003871
+---
+vcomputed: -23.5015058795
+---
+vcomputed: 22.6230590918
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0076008668
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9898267682
+---
+vcomputed: -22.1635256258
+---
+vcomputed: 22.790017869
+---
+vcomputed: -23.4540754108
+---
+vcomputed: -22.7051817777
+---
+vcomputed: -23.5477169646
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.6934470689
+---
+vcomputed: 22.8728253338
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9648269336
+---
+vcomputed: -22.474205804
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7955717914
+---
+vcomputed: -3.47508832911e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0661627876
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7992766504
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3894028004
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0738246884
+---
+vcomputed: -46.4565631468
+---
+vcomputed: 45.5520194824
+---
+vcomputed: -45.9543706332
+---
+vcomputed: 22.9696607491
+---
+vcomputed: -46.5027637061
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.930189975
+---
+vcomputed: 0.0
+---
+vcomputed: -45.7963185078
+---
+vcomputed: 22.9053692525
+---
+vcomputed: 6.95017665822e-15
+---
+vcomputed: -23.011105837
+---
+vcomputed: -22.9736917985
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0294531096
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1382491451
+---
+vcomputed: -22.8674983719
+---
+vcomputed: 22.8308155291
+---
+vcomputed: -22.9989797938
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5252425804
+---
+vcomputed: 0.0
+---
+vcomputed: -23.091457939
+---
+vcomputed: -23.0359368714
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2676330514
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.717768208
+---
+vcomputed: 44.5325918392
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8515357085
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0030200112
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5516691791
+---
+vcomputed: 22.9382744632
+---
+vcomputed: -45.1104988434
+---
+vcomputed: 22.8478127325
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1115658504
+---
+vcomputed: -22.5363556287
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9115142702
+---
+vcomputed: -23.0049072881
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 24.2699432801
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 24.259450517
+---
+vcomputed: -45.5272067661
+---
+vcomputed: 22.6627374512
+---
+vcomputed: -23.1581660793
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0086805099
+---
+vcomputed: -22.2526723413
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8446248045
+---
+vcomputed: -23.0955307158
+---
+vcomputed: 22.4372343453
+---
+vcomputed: -22.8968246085
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.6683191597
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3948481075
+---
+vcomputed: 22.9809494493
+---
+vcomputed: -22.567170798
+---
+vcomputed: 23.1360690042
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1762015289
+---
+vcomputed: 22.8446248045
+---
+vcomputed: -22.8504707622
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0030200112
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8600465779
+---
+vcomputed: 0.0
+---
+vcomputed: 22.838249389
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2966112686
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8619093501
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9758414433
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9198028797
+---
+vcomputed: -46.7952698976
+---
+vcomputed: 23.1281681511
+---
+vcomputed: -23.0792470849
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 63.4455629015
+---
+vcomputed: -24.8236319797
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5547311978
+---
+vcomputed: -23.3692377159
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9656322405
+---
+vcomputed: 22.7443590641
+---
+vcomputed: -22.7881656842
+---
+vcomputed: 22.6603849993
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8043064415
+---
+vcomputed: 45.8711896898
+---
+vcomputed: 22.9099112942
+---
+vcomputed: -22.8568541196
+---
+vcomputed: -22.5946900688
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5508469062
+---
+vcomputed: 0.0
+---
+vcomputed: -22.828691822
+---
+vcomputed: 23.3684038553
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1546161701
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8896188684
+---
+vcomputed: -46.4857011569
+---
+vcomputed: 22.6925885046
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.1301938819
+---
+vcomputed: 45.6202657818
+---
+vcomputed: -23.5816446756
+---
+vcomputed: -22.5461866534
+---
+vcomputed: 23.3386908331
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4749781474
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8016591402
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7654493634
+---
+vcomputed: -22.842233328
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9693925886
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9414897079
+---
+vcomputed: 0.0
+---
+vcomputed: 43.5240079503
+---
+vcomputed: -48.1472081878
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 46.1053992447
+---
+vcomputed: -22.9771853166
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8648363795
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9852529869
+---
+vcomputed: -22.9280974884
+---
+vcomputed: 23.0665082662
+---
+vcomputed: -45.732868341
+---
+vcomputed: 45.7973845195
+---
+vcomputed: -22.9337211694
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 20.9544729811
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -47.3189632601
+---
+vcomputed: 22.8000703883
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0703017241
+---
+vcomputed: -22.4911923462
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6726790724
+---
+vcomputed: 23.4227487739
+---
+vcomputed: -22.7577995706
+---
+vcomputed: 23.2814238125
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1360690042
+---
+vcomputed: -22.1091356441
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2118102779
+---
+vcomputed: 43.2375131287
+---
+vcomputed: -24.2471725009
+---
+vcomputed: 0.0
+---
+vcomputed: 65.1596643084
+---
+vcomputed: -48.5602909691
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1066721307
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9099112942
+---
+vcomputed: 6.95017665822e-15
+---
+vcomputed: -22.470091489
+---
+vcomputed: 23.2260844342
+---
+vcomputed: 21.2931994093
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2963354198
+---
+vcomputed: 23.5544946945
+---
+vcomputed: -22.7356702678
+---
+vcomputed: -22.989018635
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.9113048774
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6358346195
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8757551593
+---
+vcomputed: -22.8409051939
+---
+vcomputed: 22.9216765257
+---
+vcomputed: -21.8920215988
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -48.4716049994
+---
+vcomputed: 23.5576017668
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.5464213713
+---
+vcomputed: 22.6946858633
+---
+vcomputed: 23.2189451622
+---
+vcomputed: -22.598850143
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3695129105
+---
+vcomputed: -22.8674994886
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.7073251057
+---
+vcomputed: -6.95017665822e-15
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5683441873
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8693623588
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.119183693
+---
+vcomputed: 23.3403543751
+---
+vcomputed: -22.5076885212
+---
+vcomputed: 22.6491482275
+---
+vcomputed: 0.0
+---
+vcomputed: -22.0144688374
+---
+vcomputed: 23.8326014008
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3265373738
+---
+vcomputed: -23.3137580029
+---
+vcomputed: -22.5739148272
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2118102779
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3293299766
+---
+vcomputed: 23.3475696789
+---
+vcomputed: -22.92916856
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4666874012
+---
+vcomputed: 0.0
+---
+vcomputed: -23.70059446
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9155249349
+---
+vcomputed: 22.0503072366
+---
+vcomputed: 22.814638349
+---
+vcomputed: -22.730144389
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5306692698
+---
+vcomputed: -23.3664576347
+---
+vcomputed: 0.0
+---
+vcomputed: -23.8152634349
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9460449629
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9230129478
+---
+vcomputed: -22.6944251846
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.9624357595
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6507149195
+---
+vcomputed: -23.4023755067
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.627603066
+---
+vcomputed: 22.5311853045
+---
+vcomputed: -22.5097518389
+---
+vcomputed: 0.0
+---
+vcomputed: 21.9096060431
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0481007925
+---
+vcomputed: -46.2166055203
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.1024181257
+---
+vcomputed: -23.1140140581
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5384242059
+---
+vcomputed: 0.0
+---
+vcomputed: -22.0716181083
+---
+vcomputed: 46.79303933
+---
+vcomputed: -22.577547981
+---
+vcomputed: 44.9463557858
+---
+vcomputed: -69.1548509373
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 44.0166042182
+---
+vcomputed: -24.9219089226
+---
+vcomputed: 21.6483058042
+---
+vcomputed: -48.7785842159
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.1910729593
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7530533986
+---
+vcomputed: -45.7973867591
+---
+vcomputed: 64.2347688503
+---
+vcomputed: -23.3436844982
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8989598918
+---
+vcomputed: 0.0
+---
+vcomputed: -23.8644569741
+---
+vcomputed: 0.0
+---
+vcomputed: 23.305734185
+---
+vcomputed: -22.882952172
+---
+vcomputed: 44.3741232948
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7934557451
+---
+vcomputed: -22.959457037
+---
+vcomputed: 45.7078560359
+---
+vcomputed: 0.0
+---
+vcomputed: -22.0852687393
+---
+vcomputed: -22.7879017447
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0016731144
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.942560907
+---
+vcomputed: -22.8510037805
+---
+vcomputed: 45.8551262256
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0971609124
+---
+vcomputed: -23.0947174124
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2453266807
+---
+vcomputed: 23.0808749835
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0842750559
+---
+vcomputed: -22.4546786376
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.2794294791
+---
+vcomputed: -23.4291745694
+---
+vcomputed: 0.0
+---
+vcomputed: 45.9801908122
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.0066091018
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2167497888
+---
+vcomputed: 22.6852491525
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.07274006
+---
+vcomputed: -22.4167475166
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1360690042
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1172787616
+---
+vcomputed: 22.5588765694
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7088562101
+---
+vcomputed: 22.9329169757
+---
+vcomputed: 6.95017665822e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8393109684
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0189268992
+---
+vcomputed: -22.7351437201
+---
+vcomputed: 23.0600084215
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -21.9171854698
+---
+vcomputed: 22.9008290115
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6593399874
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9728847992
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.2190326104
+---
+vcomputed: -23.6037507591
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8403726466
+---
+vcomputed: 22.7620199298
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9744977273
+---
+vcomputed: 0.0
+---
+vcomputed: 43.9845674793
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -24.4564093175
+---
+vcomputed: -45.3919962939
+---
+vcomputed: 45.7025383677
+---
+vcomputed: -23.0920011206
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4878450381
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.6423933509
+---
+vcomputed: -22.809072911
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5689100366
+---
+vcomputed: 66.0426675477
+---
+vcomputed: -72.3529518956
+---
+vcomputed: 43.1809528709
+---
+vcomputed: -48.3749000865
+---
+vcomputed: 43.474872299
+---
+vcomputed: -48.3576298506
+---
+vcomputed: 0.0
+---
+vcomputed: 67.0192295461
+---
+vcomputed: -69.6617750307
+---
+vcomputed: 45.0349890909
+---
+vcomputed: -22.7643946389
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0960740891
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4778069309
+---
+vcomputed: 22.8677652753
+---
+vcomputed: 0.0
+---
+vcomputed: 22.992248122
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6003472174
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 51.2692091696
+---
+vcomputed: 160.808315944
+---
+vcomputed: 229.07773968
+---
+vcomputed: 160.635452442
+---
+vcomputed: 182.051849893
+---
+vcomputed: 182.028655054
+---
+vcomputed: 135.693028066
+---
+vcomputed: 160.676760855
+---
+vcomputed: 135.668030821
+---
+vcomputed: 130.312123642
+---
+vcomputed: 158.436236867
+---
+vcomputed: 137.525239059
+---
+vcomputed: 147.9822868
+---
+vcomputed: 91.2649076334
+---
+vcomputed: 161.403001482
+---
+vcomputed: 129.233156278
+---
+vcomputed: 132.804313603
+---
+vcomputed: 189.460722628
+---
+vcomputed: 92.7737792811
+---
+vcomputed: 184.999202971
+---
+vcomputed: 136.347727174
+---
+vcomputed: 160.502309409
+---
+vcomputed: 162.080405715
+---
+vcomputed: 113.607332239
+---
+vcomputed: 161.450383408
+---
+vcomputed: 113.32676844
+---
+vcomputed: 162.214278314
+---
+vcomputed: 156.413782053
+---
+vcomputed: 139.724979898
+---
+vcomputed: 177.344232117
+---
+vcomputed: 156.223609469
+---
+vcomputed: 142.858659851
+---
+vcomputed: 160.130293938
+---
+vcomputed: 117.414798027
+---
+vcomputed: 158.958324035
+---
+vcomputed: 158.044649492
+---
+vcomputed: 137.958338893
+---
+vcomputed: 186.920542737
+---
+vcomputed: 154.014964606
+---
+vcomputed: 163.111116703
+---
+vcomputed: 179.898630615
+---
+vcomputed: 93.3259333612
+---
+vcomputed: 165.125041139
+---
+vcomputed: 135.466848953
+---
+vcomputed: 164.607051783
+---
+vcomputed: 184.592771439
+---
+vcomputed: 137.137931664
+---
+vcomputed: 160.522918877
+---
+vcomputed: 159.8733209
+---
+vcomputed: 161.691531398
+---
+vcomputed: 137.075720228
+---
+vcomputed: 161.602208626
+---
+vcomputed: 161.07207345
+---
+vcomputed: 184.892526803
+---
+vcomputed: 163.080157128
+---
+vcomputed: 157.765354877
+---
+vcomputed: 161.695336085
+---
+vcomputed: 135.757119423
+---
+vcomputed: 187.610210268
+---
+vcomputed: 159.711736229
+---
+vcomputed: 137.684312116
+---
+vcomputed: 185.512513006
+---
+vcomputed: 178.011295034
+---
+vcomputed: 139.724979898
+---
+vcomputed: 161.765727159
+---
+vcomputed: 158.090087504
+---
+vcomputed: 183.604834216
+---
+vcomputed: 115.435572718
+---
+vcomputed: 185.600160926
+---
+vcomputed: 183.950910162
+---
+vcomputed: 160.438628011
+---
+vcomputed: 183.626281229
+---
+vcomputed: 160.13961927
+---
+vcomputed: 138.170242687
+---
+vcomputed: 183.296392153
+---
+vcomputed: 115.159419754
+---
+vcomputed: 183.146834905
+---
+vcomputed: 161.172158686
+---
+vcomputed: 160.259082656
+---
+vcomputed: 183.373412206
+---
+vcomputed: 160.477949587
+---
+vcomputed: 159.759991222
+---
+vcomputed: 159.334139508
+---
+vcomputed: 162.218099614
+---
+vcomputed: 160.186262228
+---
+vcomputed: 182.710245787
+---
+vcomputed: 184.196743727
+---
+vcomputed: 138.481993951
+---
+vcomputed: 137.412984742
+---
+vcomputed: 171.214325785
+---
+vcomputed: 165.672246735
+---
+vcomputed: 160.167601785
+---
+vcomputed: 179.898639254
+---
+vcomputed: 188.399803037
+---
+vcomputed: 160.419908728
+---
+vcomputed: 184.086684617
+---
+vcomputed: 159.811991957
+---
+vcomputed: 138.587853164
+---
+vcomputed: 161.74289781
+---
+vcomputed: 159.72657782
+---
+vcomputed: 180.181277367
+---
+vcomputed: 163.806861882
+---
+vcomputed: 184.02416009
+---
+vcomputed: 183.43334848
+---
+vcomputed: 137.355324703
+---
+vcomputed: 182.733614664
+---
+vcomputed: 159.483855635
+---
+vcomputed: 160.753788535
+---
+vcomputed: 183.426917485
+---
+vcomputed: 159.017155631
+---
+vcomputed: 155.805779338
+---
+vcomputed: 188.752881102
+---
+vcomputed: 159.774849572
+---
+vcomputed: 159.648680503
+---
+vcomputed: 215.004250003
+---
+vcomputed: 156.25379297
+---
+vcomputed: 148.495096778
+---
+vcomputed: 221.268208548
+---
+vcomputed: 133.916603514
+---
+vcomputed: 164.423974603
+---
+vcomputed: 159.186544138
+---
+vcomputed: 160.455474389
+---
+vcomputed: 180.974050576
+---
+vcomputed: 184.64483376
+---
+vcomputed: 156.002018207
+---
+vcomputed: 182.612556981
+---
+vcomputed: 187.259162355
+---
+vcomputed: 160.027771293
+---
+vcomputed: 159.258465995
+---
+vcomputed: 160.500438941
+---
+vcomputed: 113.615215804
+---
+vcomputed: 183.116959898
+---
+vcomputed: 180.495881915
+---
+vcomputed: 182.303213957
+---
+vcomputed: 183.459059003
+---
+vcomputed: 160.382475415
+---
+vcomputed: 158.106444263
+---
+vcomputed: 180.772078757
+---
+vcomputed: 139.584303966
+---
+vcomputed: 173.526901215
+---
+vcomputed: 185.775714678
+---
+vcomputed: 180.695162256
+---
+vcomputed: 181.170200491
+---
+vcomputed: 116.01517759
+---
+vcomputed: 160.55666632
+---
+vcomputed: 183.025229284
+---
+vcomputed: 183.426926466
+---
+vcomputed: 160.63920759
+---
+vcomputed: 179.319652626
+---
+vcomputed: 159.981220575
+---
+vcomputed: 186.163117321
+---
+vcomputed: 183.202358289
+---
+vcomputed: 136.073774224
+---
+vcomputed: 178.862395166
+---
+vcomputed: 160.21986825
+---
+vcomputed: 160.04453931
+---
+vcomputed: 141.154293987
+---
+vcomputed: 183.433357463
+---
+vcomputed: 185.282803095
+---
+vcomputed: 92.9384043888
+---
+vcomputed: 179.717560127
+---
+vcomputed: 185.188899444
+---
+vcomputed: 183.386249189
+---
+vcomputed: 181.916947968
+---
+vcomputed: 181.473614769
+---
+vcomputed: 185.413998816
+---
+vcomputed: 163.514622734
+---
+vcomputed: 176.745746394
+---
+vcomputed: 164.059031041
+---
+vcomputed: 163.549631793
+---
+vcomputed: 177.298210329
+---
+vcomputed: 166.070498418
+---
+vcomputed: 192.372944837
+---
+vcomputed: 146.71287823
+---
+vcomputed: 191.588943782
+---
+vcomputed: 120.399012886
+---
+vcomputed: 164.070765939
+---
+vcomputed: 161.041890925
+---
+vcomputed: 184.419436155
+---
+vcomputed: 182.652891716
+---
+vcomputed: 183.58981619
+---
+vcomputed: 186.205035952
+---
+vcomputed: 159.443165991
+---
+vcomputed: 180.332226611
+---
+vcomputed: 164.676071484
+---
+vcomputed: 182.988993609
+---
+vcomputed: 159.513456916
+---
+vcomputed: 136.259441374
+---
+vcomputed: 186.847196711
+---
+vcomputed: 140.434326076
+---
+vcomputed: 182.5679958
+---
+vcomputed: 183.514762897
+---
+vcomputed: 137.644109816
+---
+vcomputed: 184.289652704
+---
+vcomputed: 179.286911408
+---
+vcomputed: 182.908044925
+---
+vcomputed: 188.277899275
+---
+vcomputed: 183.546917224
+---
+vcomputed: 137.78573831
+---
+vcomputed: 160.844061948
+---
+vcomputed: 184.456240617
+---
+vcomputed: 178.583884907
+---
+vcomputed: 189.011726011
+---
+vcomputed: 179.156074577
+---
+vcomputed: 138.304840593
+---
+vcomputed: 139.500027366
+---
+vcomputed: 181.921162007
+---
+vcomputed: 185.622085849
+---
+vcomputed: 182.629534576
+---
+vcomputed: 185.007919275
+---
+vcomputed: 160.633578869
+---
+vcomputed: 160.249743405
+---
+vcomputed: 183.817482533
+---
+vcomputed: 137.435422288
+---
+vcomputed: 183.752986461
+---
+vcomputed: 160.829011969
+---
+vcomputed: 183.512623272
+---
+vcomputed: 138.386042921
+---
+vcomputed: 182.57648451
+---
+vcomputed: 160.182528226
+---
+vcomputed: 204.594985918
+---
+vcomputed: 159.085233733
+---
+vcomputed: 182.831424144
+---
+vcomputed: 182.294750639
+---
+vcomputed: 149.672271824
+---
+vcomputed: 162.292779529
+---
+vcomputed: 210.058205493
+---
+vcomputed: 182.034979529
+---
+vcomputed: 137.248141136
+---
+vcomputed: 134.341015957
+---
+vcomputed: 162.463464619
+---
+vcomputed: 184.032784755
+---
+vcomputed: 160.960816591
+---
+vcomputed: 183.512623272
+---
+vcomputed: 186.337532157
+---
+vcomputed: 184.744700485
+---
+vcomputed: 180.477220557
+---
+vcomputed: 159.099966832
+---
+vcomputed: 209.413660979
+---
+vcomputed: 111.469223666
+---
+vcomputed: 185.898808339
+---
+vcomputed: 155.676984705
+---
+vcomputed: 188.420138839
+---
+vcomputed: 133.506961361
+---
+vcomputed: 165.123061375
+---
+vcomputed: 177.882321151
+---
+vcomputed: 187.089689983
+---
+vcomputed: 153.430574905
+---
+vcomputed: 166.537208031
+---
+vcomputed: 119.910912362
+---
+vcomputed: 0.0
+---
+vcomputed: 45.793649217
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0065235857
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7411988339
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7775951415
+---
+vcomputed: 22.7847294036
+---
+vcomputed: -22.9742283266
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6350522754
+---
+vcomputed: -22.89629057
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0431304324
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3389688492
+---
+vcomputed: -22.8904189092
+---
+vcomputed: -47.211473422
+---
+vcomputed: 88.2696093965
+---
+vcomputed: -45.4992576072
+---
+vcomputed: -47.6351445045
+---
+vcomputed: 41.9680522525
+---
+vcomputed: -25.0101343219
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6679694316
+---
+vcomputed: -46.8114420252
+---
+vcomputed: 65.7640320721
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -47.3109839133
+---
+vcomputed: 22.721992362
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0435037971
+---
+vcomputed: -47.8387731861
+---
+vcomputed: 22.8525985236
+---
+vcomputed: -22.4310842585
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4476359511
+---
+vcomputed: 23.0573014232
+---
+vcomputed: 22.9605310406
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0297238069
+---
+vcomputed: -22.7902807483
+---
+vcomputed: 46.0843043106
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8821515348
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7886957998
+---
+vcomputed: -45.7648375608
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8459522566
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8199395971
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0375575323
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0229741285
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.954359705
+---
+vcomputed: -22.7680882629
+---
+vcomputed: 45.4881922768
+---
+vcomputed: 45.5287870645
+---
+vcomputed: -69.0365540344
+---
+vcomputed: 22.9246188802
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7004575251
+---
+vcomputed: -23.8902909497
+---
+vcomputed: 44.9448135033
+---
+vcomputed: -46.5529134932
+---
+vcomputed: 0.0
+---
+vcomputed: 67.56642883
+---
+vcomputed: -46.1135174748
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4425977174
+---
+vcomputed: 22.2615006347
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.581360848
+---
+vcomputed: -70.5602444145
+---
+vcomputed: 21.6330448587
+---
+vcomputed: 23.0162295368
+---
+vcomputed: 0.0
+---
+vcomputed: 23.9272553784
+---
+vcomputed: -22.2418361862
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0936296801
+---
+vcomputed: -45.8840517139
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1775700907
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9072394187
+---
+vcomputed: -22.9817558874
+---
+vcomputed: 23.2442258692
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.2841950203
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9366666171
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5195179644
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8502053774
+---
+vcomputed: 22.9755731385
+---
+vcomputed: -22.8011295316
+---
+vcomputed: 22.5309262001
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0129933099
+---
+vcomputed: 22.8141070258
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.8102029412
+---
+vcomputed: -45.7488484833
+---
+vcomputed: 22.6904915336
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7078067229
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7886946907
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -47.0706009262
+---
+vcomputed: 23.0624457179
+---
+vcomputed: 22.6724178012
+---
+vcomputed: -23.3689601445
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.713847282
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2359765649
+---
+vcomputed: 0.0
+---
+vcomputed: -23.474820095
+---
+vcomputed: -22.8387807233
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8268344587
+---
+vcomputed: 22.9144551375
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4754916342
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 46.1883459278
+---
+vcomputed: 0.0
+---
+vcomputed: -44.7003322087
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5549897635
+---
+vcomputed: 22.6572480601
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3993620866
+---
+vcomputed: 0.0
+---
+vcomputed: -21.8851908811
+---
+vcomputed: 23.1072160283
+---
+vcomputed: 0.0
+---
+vcomputed: -3.47508832911e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7939838876
+---
+vcomputed: -22.9331854084
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8395772142
+---
+vcomputed: 21.601874873
+---
+vcomputed: -22.9570414591
+---
+vcomputed: 0.0
+---
+vcomputed: -46.7423687993
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3707878573
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9214083624
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7839356249
+---
+vcomputed: -22.891753927
+---
+vcomputed: -22.7834079478
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.987136221
+---
+vcomputed: -22.8952225677
+---
+vcomputed: 22.8292227117
+---
+vcomputed: -22.7704642385
+---
+vcomputed: 0.0
+---
+vcomputed: -22.828691822
+---
+vcomputed: 23.0040980944
+---
+vcomputed: -22.9291696828
+---
+vcomputed: 22.9414885839
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.2753242473
+---
+vcomputed: 0.0
+---
+vcomputed: -46.5214864361
+---
+vcomputed: 0.0
+---
+vcomputed: -45.8819049199
+---
+vcomputed: 22.9026984363
+---
+vcomputed: 23.1360690042
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2291054638
+---
+vcomputed: 22.5881940397
+---
+vcomputed: -23.6469482094
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1077599516
+---
+vcomputed: -22.8741560654
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.2675580686
+---
+vcomputed: -23.0499943395
+---
+vcomputed: 23.3079475804
+---
+vcomputed: -22.4144447808
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9032316535
+---
+vcomputed: 0.0
+---
+vcomputed: 45.8545918686
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.9968850534
+---
+vcomputed: -47.3503330065
+---
+vcomputed: -23.3942905851
+---
+vcomputed: -22.3331393909
+---
+vcomputed: 66.3333827328
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0703005874
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7865799209
+---
+vcomputed: 23.0922732905
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7122707431
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0224341894
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.2090413041
+---
+vcomputed: 22.5131067547
+---
+vcomputed: -23.1499765913
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -44.4741028594
+---
+vcomputed: 0.0
+---
+vcomputed: 23.452116069
+---
+vcomputed: 22.8143726843
+---
+vcomputed: -45.962972633
+---
+vcomputed: -23.9301705138
+---
+vcomputed: 64.2915421074
+---
+vcomputed: -23.46080051
+---
+vcomputed: 22.3527095999
+---
+vcomputed: 0.0
+---
+vcomputed: -22.80033572
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4191172921
+---
+vcomputed: 22.8728253338
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9766475229
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7976893405
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7369861915
+---
+vcomputed: 22.5931311171
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9059037146
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7593824367
+---
+vcomputed: 23.0272934216
+---
+vcomputed: -22.8930879813
+---
+vcomputed: 22.9075061299
+---
+vcomputed: -45.925894706
+---
+vcomputed: 22.8159623184
+---
+vcomputed: -45.3280920852
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -24.0226629805
+---
+vcomputed: 23.0059844179
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9149900237
+---
+vcomputed: -22.9979033198
+---
+vcomputed: -22.9573104569
+---
+vcomputed: 45.5641732908
+---
+vcomputed: -23.0308032619
+---
+vcomputed: -22.4947989193
+---
+vcomputed: 0.0
+---
+vcomputed: 21.4031895966
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5762504473
+---
+vcomputed: -45.2409074042
+---
+vcomputed: 47.2984513992
+---
+vcomputed: -22.6897054067
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0351254933
+---
+vcomputed: -22.6050925817
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3118208735
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0445856783
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8933543631
+---
+vcomputed: 46.2579699095
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5236910301
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6643071208
+---
+vcomputed: -23.8630060959
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.590792003
+---
+vcomputed: 22.8395772142
+---
+vcomputed: 23.430851036
+---
+vcomputed: 0.0
+---
+vcomputed: -23.9906789171
+---
+vcomputed: 22.1482799507
+---
+vcomputed: -47.8504299234
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4205857455
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.6102774548
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.2586320152
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7947783667
+---
+vcomputed: 22.9272948117
+---
+vcomputed: -22.8579185452
+---
+vcomputed: 22.8842852006
+---
+vcomputed: -22.4037056475
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7773303388
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.8374676093
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.841746353
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0600072859
+---
+vcomputed: 0.0
+---
+vcomputed: 3.47508832911e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.844358441
+---
+vcomputed: 0.0
+---
+vcomputed: 46.1156837273
+---
+vcomputed: -45.8347935197
+---
+vcomputed: 22.9037671361
+---
+vcomputed: -22.9806798973
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7834079478
+---
+vcomputed: -23.1042254779
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9195370039
+---
+vcomputed: 22.8377169655
+---
+vcomputed: 23.1439752572
+---
+vcomputed: -22.8247126047
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.3649641498
+---
+vcomputed: -47.8079147963
+---
+vcomputed: 43.4162485822
+---
+vcomputed: 22.4999536367
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1896107607
+---
+vcomputed: -22.8968234889
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8952225677
+---
+vcomputed: -22.590792003
+---
+vcomputed: 23.0863006946
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1219052421
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8861519252
+---
+vcomputed: 23.0019420292
+---
+vcomputed: -22.8824187804
+---
+vcomputed: -22.9669749197
+---
+vcomputed: -47.4109171795
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9034993917
+---
+vcomputed: -22.9734224167
+---
+vcomputed: 22.9621422344
+---
+vcomputed: 22.9559689074
+---
+vcomputed: -22.7976882306
+---
+vcomputed: 22.9828319782
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7057069384
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4319707679
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -24.529104921
+---
+vcomputed: -21.049245227
+---
+vcomputed: 23.7510387287
+---
+vcomputed: -23.1475207599
+---
+vcomputed: 45.9775000446
+---
+vcomputed: -44.80945657
+---
+vcomputed: 47.2563435287
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9107138751
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2695628437
+---
+vcomputed: -44.7038934078
+---
+vcomputed: 46.5198341639
+---
+vcomputed: 0.0
+---
+vcomputed: 21.605440101
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -48.5638918985
+---
+vcomputed: -22.0503072366
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0259436807
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.9737351218
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3697672471
+---
+vcomputed: 0.0
+---
+vcomputed: 22.861376939
+---
+vcomputed: 22.7604366968
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3645117382
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7923973145
+---
+vcomputed: -45.78244025
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7333015474
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6986209689
+---
+vcomputed: -22.6593399874
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.124627432
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1121099785
+---
+vcomputed: 22.9406849693
+---
+vcomputed: -46.2585137092
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9597260914
+---
+vcomputed: 44.3325551917
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8864181457
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 44.9762019851
+---
+vcomputed: -22.869096535
+---
+vcomputed: 0.0
+---
+vcomputed: -46.0783591096
+---
+vcomputed: -22.9742283266
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2274565893
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 43.4816120551
+---
+vcomputed: -47.8306175815
+---
+vcomputed: -22.8040421279
+---
+vcomputed: 22.8040410174
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0035590402
+---
+vcomputed: 22.1088871996
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9021641237
+---
+vcomputed: 22.2149173286
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8728253338
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0178474258
+---
+vcomputed: 22.3483868551
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.081959239
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6004109748
+---
+vcomputed: 0.0
+---
+vcomputed: -23.760521095
+---
+vcomputed: 0.0
+---
+vcomputed: -21.22004141
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8813520718
+---
+vcomputed: 23.4353247414
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8805526646
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 20.8896171449
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9064382016
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.7073251057
+---
+vcomputed: -46.1259727992
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9350601197
+---
+vcomputed: -23.029993378
+---
+vcomputed: 22.8289578203
+---
+vcomputed: -22.9026973161
+---
+vcomputed: 23.2797686599
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9414885839
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8188787056
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0283737812
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.5287870645
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.245980248
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -6.95017665822e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -21.0062448061
+---
+vcomputed: 22.9804114795
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4795908071
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 42.0998435758
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7164731292
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9305069788
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.627603066
+---
+vcomputed: -45.605965428
+---
+vcomputed: 22.7913389823
+---
+vcomputed: -23.152432944
+---
+vcomputed: 22.9527496032
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3201241283
+---
+vcomputed: 0.0
+---
+vcomputed: 3.47508832911e-15
+---
+vcomputed: -22.9184657102
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9562367546
+---
+vcomputed: 22.9029650418
+---
+vcomputed: -22.9147231382
+---
+vcomputed: 22.9452410291
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8624406697
+---
+vcomputed: -22.990365179
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1592576089
+---
+vcomputed: -21.4957190312
+---
+vcomputed: 46.2574261225
+---
+vcomputed: -23.3697940448
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5386852678
+---
+vcomputed: 22.5327368032
+---
+vcomputed: -45.9103263054
+---
+vcomputed: 23.5223357701
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0516181139
+---
+vcomputed: 22.8525985236
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3672198683
+---
+vcomputed: -23.2670815758
+---
+vcomputed: 22.8810859692
+---
+vcomputed: -23.0340445001
+---
+vcomputed: 22.4888753714
+---
+vcomputed: -21.3230211724
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7820866454
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6624764091
+---
+vcomputed: -22.4971181958
+---
+vcomputed: 23.2340523391
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9043015235
+---
+vcomputed: -45.3396020619
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8278960901
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7254097439
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3653464869
+---
+vcomputed: -22.9326496724
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8507372683
+---
+vcomputed: 22.9447047297
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3359325801
+---
+vcomputed: 22.7340918018
+---
+vcomputed: 23.4308522084
+---
+vcomputed: -22.9358622169
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6074346583
+---
+vcomputed: 0.0
+---
+vcomputed: 22.830814416
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5468703186
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8337346015
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7900167598
+---
+vcomputed: -23.3456269269
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0684048392
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9026984363
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9350601197
+---
+vcomputed: 22.3070118838
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9067048942
+---
+vcomputed: 45.3066567623
+---
+vcomputed: -23.1576197805
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6588169693
+---
+vcomputed: 46.1509013698
+---
+vcomputed: -23.3264948934
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8440931982
+---
+vcomputed: 22.7459389562
+---
+vcomputed: -22.4562185404
+---
+vcomputed: 22.9165948321
+---
+vcomputed: 22.8249773977
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5291169719
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4367240778
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6290535477
+---
+vcomputed: -22.8667010491
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3945699274
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4963454107
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.275629494
+---
+vcomputed: -22.3761393025
+---
+vcomputed: 24.8544176423
+---
+vcomputed: 0.0
+---
+vcomputed: -23.389832531
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9514085867
+---
+vcomputed: -22.3735894034
+---
+vcomputed: -6.95017665822e-15
+---
+vcomputed: -23.5790975969
+---
+vcomputed: 22.6729414473
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7577995706
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6261865705
+---
+vcomputed: 22.3697683157
+---
+vcomputed: -22.787372775
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8541946047
+---
+vcomputed: -45.4234905575
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8986933796
+---
+vcomputed: 23.014071197
+---
+vcomputed: -22.3677295113
+---
+vcomputed: 23.1926234576
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6102762643
+---
+vcomputed: 22.7607011068
+---
+vcomputed: -23.0321535725
+---
+vcomputed: 23.0643416229
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2145536796
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2271823758
+---
+vcomputed: -23.1148310033
+---
+vcomputed: 22.6957352381
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.1805467515
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6001502758
+---
+vcomputed: 23.5878751657
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1874197825
+---
+vcomputed: 0.0
+---
+vcomputed: -23.6883026573
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.2657908883
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6836776797
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3270491891
+---
+vcomputed: 22.7554262371
+---
+vcomputed: 22.8547266812
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8164926162
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2852871366
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9511408522
+---
+vcomputed: 22.0949581914
+---
+vcomputed: -22.1380444327
+---
+vcomputed: 0.0
+---
+vcomputed: 22.620713777
+---
+vcomputed: -23.3143116934
+---
+vcomputed: -22.8840179114
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.9898216033
+---
+vcomputed: 23.5454577987
+---
+vcomputed: -22.760965523
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3736879221
+---
+vcomputed: 22.2093909498
+---
+vcomputed: -22.7467300895
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.6017305834
+---
+vcomputed: -22.361362244
+---
+vcomputed: 22.6695398261
+---
+vcomputed: -23.2090675245
+---
+vcomputed: -22.4783216259
+---
+vcomputed: 22.7398813182
+---
+vcomputed: -23.3817586072
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4294547454
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8021887734
+---
+vcomputed: -45.6520777126
+---
+vcomputed: 22.7744256692
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8355942015
+---
+vcomputed: 0.0
+---
+vcomputed: -45.71477264
+---
+vcomputed: 45.2967277347
+---
+vcomputed: -22.7683528508
+---
+vcomputed: -66.4088932455
+---
+vcomputed: 21.535080374
+---
+vcomputed: -22.8332046153
+---
+vcomputed: 22.9809494493
+---
+vcomputed: -22.9278302975
+---
+vcomputed: 22.3110666898
+---
+vcomputed: 22.3962969945
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3192937689
+---
+vcomputed: 22.6264478705
+---
+vcomputed: 22.5897523101
+---
+vcomputed: 0.0
+---
+vcomputed: -23.4191172921
+---
+vcomputed: -22.8202042793
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.89629057
+---
+vcomputed: -23.0608204178
+---
+vcomputed: 22.7122707431
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9659003132
+---
+vcomputed: -46.2041034871
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0443674076
+---
+vcomputed: -22.9355948449
+---
+vcomputed: 23.4840831456
+---
+vcomputed: -22.9099112942
+---
+vcomputed: 0.0
+---
+vcomputed: 23.044044725
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.989018635
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7717853005
+---
+vcomputed: -68.3978266211
+---
+vcomputed: 45.7637730636
+---
+vcomputed: -45.009702261
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2814238125
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0211340294
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8544600821
+---
+vcomputed: -23.6686062809
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.87149364
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4596791965
+---
+vcomputed: -22.9181987437
+---
+vcomputed: 0.0
+---
+vcomputed: -23.585609476
+---
+vcomputed: 45.7680358228
+---
+vcomputed: -44.4449170007
+---
+vcomputed: 0.0
+---
+vcomputed: 45.3904210771
+---
+vcomputed: -22.8933543631
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8064256138
+---
+vcomputed: -45.5726298186
+---
+vcomputed: 22.7101690316
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8770884671
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9246188802
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7261994497
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3712965941
+---
+vcomputed: 23.5946772249
+---
+vcomputed: -22.3962969945
+---
+vcomputed: 0.0
+---
+vcomputed: 23.036206588
+---
+vcomputed: -22.2758926898
+---
+vcomputed: 23.5841934925
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7593813305
+---
+vcomputed: 22.6413158278
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0318839509
+---
+vcomputed: -22.4857846546
+---
+vcomputed: -23.5525173549
+---
+vcomputed: 0.0
+---
+vcomputed: 45.9226743443
+---
+vcomputed: 0.0
+---
+vcomputed: -22.807749741
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9235493558
+---
+vcomputed: 22.4600702989
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9710050263
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6939005457
+---
+vcomputed: 23.4546357864
+---
+vcomputed: 0.0
+---
+vcomputed: -45.5625883183
+---
+vcomputed: 22.4477484593
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8448900597
+---
+vcomputed: 23.5175464926
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5879336224
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 1.04252649873e-14
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0667786991
+---
+vcomputed: -22.9091087694
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9053692525
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0019420292
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8255081146
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5234618997
+---
+vcomputed: 22.8986933796
+---
+vcomputed: 0.0
+---
+vcomputed: -22.426730076
+---
+vcomputed: 23.5609941751
+---
+vcomputed: -22.4423616359
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.313203178
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2902579724
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9653630477
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7807643879
+---
+vcomputed: 23.1871465134
+---
+vcomputed: -22.9040337665
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8720254052
+---
+vcomputed: 22.9771853166
+---
+vcomputed: 0.0
+---
+vcomputed: 3.47508832911e-15
+---
+vcomputed: 22.8637713095
+---
+vcomputed: -23.1050417313
+---
+vcomputed: 22.8651021042
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9157918391
+---
+vcomputed: 23.0681332317
+---
+vcomputed: -46.0055021425
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0302640881
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.3467361999
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4636679746
+---
+vcomputed: 23.0124538388
+---
+vcomputed: -23.3026931922
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8587152556
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4891324295
+---
+vcomputed: -23.265978703
+---
+vcomputed: 22.4001292944
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9535551885
+---
+vcomputed: 22.7411977295
+---
+vcomputed: -22.6868230414
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0154206775
+---
+vcomputed: -22.7958359086
+---
+vcomputed: 22.9503354364
+---
+vcomputed: -22.7414627972
+---
+vcomputed: 23.0302629554
+---
+vcomputed: -22.8347968749
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4595575166
+---
+vcomputed: 45.6961583531
+---
+vcomputed: 0.0
+---
+vcomputed: -22.496087107
+---
+vcomputed: 23.2516566383
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5147310149
+---
+vcomputed: 45.1582095657
+---
+vcomputed: -45.9318028792
+---
+vcomputed: 22.6082150945
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8906863479
+---
+vcomputed: 22.9080406917
+---
+vcomputed: -22.7657138899
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0019431591
+---
+vcomputed: -22.4528805569
+---
+vcomputed: 22.7834079478
+---
+vcomputed: -23.0081401105
+---
+vcomputed: 0.0
+---
+vcomputed: 23.5561891441
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7364606869
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -93.4424883314
+---
+vcomputed: -45.4203380632
+---
+vcomputed: -137.956719877
+---
+vcomputed: -113.712576989
+---
+vcomputed: -170.862432219
+---
+vcomputed: -151.726281996
+---
+vcomputed: -160.251615869
+---
+vcomputed: -185.479648007
+---
+vcomputed: -160.975899154
+---
+vcomputed: -161.08906104
+---
+vcomputed: -114.759725998
+---
+vcomputed: -183.787379334
+---
+vcomputed: -115.000287491
+---
+vcomputed: -137.917969661
+---
+vcomputed: -137.251339324
+---
+vcomputed: -114.702081805
+---
+vcomputed: -161.098506297
+---
+vcomputed: -136.144519329
+---
+vcomputed: -160.772585824
+---
+vcomputed: -115.17698162
+---
+vcomputed: -159.345215935
+---
+vcomputed: -138.674295735
+---
+vcomputed: -182.151047502
+---
+vcomputed: -137.31690484
+---
+vcomputed: -114.589658917
+---
+vcomputed: -161.117384295
+---
+vcomputed: -182.68899439
+---
+vcomputed: -138.44294813
+---
+vcomputed: -183.161780542
+---
+vcomputed: -137.562165837
+---
+vcomputed: -137.740641559
+---
+vcomputed: -137.901831291
+---
+vcomputed: -160.915601653
+---
+vcomputed: -128.000663597
+---
+vcomputed: -172.043225788
+---
+vcomputed: -174.727183705
+---
+vcomputed: -161.777152235
+---
+vcomputed: -115.60952621
+---
+vcomputed: -184.190277207
+---
+vcomputed: -181.593166609
+---
+vcomputed: -115.00701538
+---
+vcomputed: -160.629831856
+---
+vcomputed: -138.821318196
+---
+vcomputed: -155.710485587
+---
+vcomputed: -189.362537509
+---
+vcomputed: -160.212397287
+---
+vcomputed: -156.978148732
+---
+vcomputed: -117.518777194
+---
+vcomputed: -184.545074945
+---
+vcomputed: -138.420180431
+---
+vcomputed: -159.293518472
+---
+vcomputed: -178.691526387
+---
+vcomputed: -187.143179838
+---
+vcomputed: -135.885483941
+---
+vcomputed: -160.449858537
+---
+vcomputed: -163.795156517
+---
+vcomputed: -160.06876772
+---
+vcomputed: -116.483056343
+---
+vcomputed: -203.595806898
+---
+vcomputed: -140.072099497
+---
+vcomputed: -183.249363158
+---
+vcomputed: -180.282567522
+---
+vcomputed: -164.644515039
+---
+vcomputed: -135.187111827
+---
+vcomputed: -163.645026114
+---
+vcomputed: -137.445043503
+---
+vcomputed: -154.569069085
+---
+vcomputed: -188.115599813
+---
+vcomputed: -183.127621391
+---
+vcomputed: -162.917826156
+---
+vcomputed: -137.003997623
+---
+vcomputed: -154.204996171
+---
+vcomputed: -161.342383653
+---
+vcomputed: -139.92573425
+---
+vcomputed: -182.980466499
+---
+vcomputed: -158.778413629
+---
+vcomputed: -183.459050018
+---
+vcomputed: -182.703865393
+---
+vcomputed: -159.899353935
+---
+vcomputed: -156.271552542
+---
+vcomputed: -141.034347594
+---
+vcomputed: -181.940123182
+---
+vcomputed: -176.966717904
+---
+vcomputed: -138.092524065
+---
+vcomputed: -139.468657572
+---
+vcomputed: -186.507844697
+---
+vcomputed: -180.276364228
+---
+vcomputed: -184.101793093
+---
+vcomputed: -138.257777367
+---
+vcomputed: -182.447157384
+---
+vcomputed: -137.273724107
+---
+vcomputed: -182.703865393
+---
+vcomputed: -159.476453152
+---
+vcomputed: -158.498338296
+---
+vcomputed: -159.806421057
+---
+vcomputed: -159.641262711
+---
+vcomputed: -159.780418271
+---
+vcomputed: -180.071825485
+---
+vcomputed: -175.588288632
+---
+vcomputed: -187.951326108
+---
+vcomputed: -135.446603598
+---
+vcomputed: -135.894889365
+---
+vcomputed: -182.604073818
+---
+vcomputed: -158.05373348
+---
+vcomputed: -140.978673902
+---
+vcomputed: -156.82415377
+---
+vcomputed: -188.859508331
+---
+vcomputed: -181.91905938
+---
+vcomputed: -185.887803295
+---
+vcomputed: -174.086387878
+---
+vcomputed: -162.975760339
+---
+vcomputed: -185.195454586
+---
+vcomputed: -135.077088396
+---
+vcomputed: -162.072760237
+---
+vcomputed: -180.092463664
+---
+vcomputed: -160.513548852
+---
+vcomputed: -165.117114051
+---
+vcomputed: -153.019009668
+---
+vcomputed: -186.731723793
+---
+vcomputed: -160.547292354
+---
+vcomputed: -181.214081855
+---
+vcomputed: -142.444219713
+---
+vcomputed: -181.29771421
+---
+vcomputed: -161.543343873
+---
+vcomputed: -181.870624077
+---
+vcomputed: -138.356800463
+---
+vcomputed: -202.286376594
+---
+vcomputed: -136.841726145
+---
+vcomputed: -184.415105582
+---
+vcomputed: -188.390773681
+---
+vcomputed: -161.098498379
+---
+vcomputed: -161.98110274
+---
+vcomputed: -159.787849
+---
+vcomputed: -183.604825217
+---
+vcomputed: -157.391491082
+---
+vcomputed: -164.749082281
+---
+vcomputed: -182.640148289
+---
+vcomputed: -183.815335843
+---
+vcomputed: -137.650543304
+---
+vcomputed: -157.328441439
+---
+vcomputed: -163.097562834
+---
+vcomputed: -208.349789322
+---
+vcomputed: -137.57019485
+---
+vcomputed: -181.011582964
+---
+vcomputed: -159.90678793
+---
+vcomputed: -186.902758008
+---
+vcomputed: -159.719160571
+---
+vcomputed: -160.423645954
+---
+vcomputed: -182.540426287
+---
+vcomputed: -182.957034445
+---
+vcomputed: -162.235321781
+---
+vcomputed: -160.73499564
+---
+vcomputed: -137.461075131
+---
+vcomputed: -182.937860731
+---
+vcomputed: -184.981772827
+---
+vcomputed: -183.463335806
+---
+vcomputed: -159.960742154
+---
+vcomputed: -159.823142716
+---
+vcomputed: -184.198908393
+---
+vcomputed: -160.798912571
+---
+vcomputed: -160.281502866
+---
+vcomputed: -206.143513338
+---
+vcomputed: -160.412419097
+---
+vcomputed: -182.045524246
+---
+vcomputed: -183.579091818
+---
+vcomputed: -138.246423015
+---
+vcomputed: -135.924671935
+---
+vcomputed: -181.509252716
+---
+vcomputed: -187.083018748
+---
+vcomputed: -161.200503245
+---
+vcomputed: -161.107936824
+---
+vcomputed: -178.504752912
+---
+vcomputed: -163.760034096
+---
+vcomputed: -161.384056497
+---
+vcomputed: -196.341002693
+---
+vcomputed: -157.80519257
+---
+vcomputed: -182.60619231
+---
+vcomputed: -188.793700202
+---
+vcomputed: -157.986535159
+---
+vcomputed: -164.772776483
+---
+vcomputed: -178.304212266
+---
+vcomputed: -142.150389703
+---
+vcomputed: -158.877492969
+---
+vcomputed: -160.541670073
+---
+vcomputed: -160.815834699
+---
+vcomputed: -184.034945568
+---
+vcomputed: -179.288953629
+---
+vcomputed: -182.449281123
+---
+vcomputed: -188.451778929
+---
+vcomputed: -183.931527579
+---
+vcomputed: -158.85179158
+---
+vcomputed: -139.154100395
+---
+vcomputed: -159.587523755
+---
+vcomputed: -183.178860418
+---
+vcomputed: -184.142779406
+---
+vcomputed: -158.897694953
+---
+vcomputed: -160.188133208
+---
+vcomputed: -186.922762568
+---
+vcomputed: -136.080061751
+---
+vcomputed: -208.065308234
+---
+vcomputed: -159.691334516
+---
+vcomputed: -68.765026211
+---
+vcomputed: -43.3028156604
+---
+vcomputed: -46.8014038858
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9361307185
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.0752993306
+---
+vcomputed: 23.5788138305
+---
+vcomputed: -22.531960485
+---
+vcomputed: -23.3681251376
+---
+vcomputed: -1.39003533164e-14
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9683177559
+---
+vcomputed: 45.9253564463
+---
+vcomputed: -22.5728777752
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.743832114
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5350628252
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8371867944
+---
+vcomputed: 22.8395761002
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6248834404
+---
+vcomputed: 23.3786954091
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8547266812
+---
+vcomputed: 23.5703241854
+---
+vcomputed: 23.0738246884
+---
+vcomputed: -23.1491583044
+---
+vcomputed: -22.4190496522
+---
+vcomputed: 47.0047008918
+---
+vcomputed: 0.0
+---
+vcomputed: -45.7190285071
+---
+vcomputed: 22.7580628133
+---
+vcomputed: -23.1325270085
+---
+vcomputed: 22.502272895
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9919794338
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5482570358
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6277511808
+---
+vcomputed: -23.3979132018
+---
+vcomputed: -22.6897054067
+---
+vcomputed: 22.9637525281
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8581841092
+---
+vcomputed: -22.8361242987
+---
+vcomputed: -6.95017665822e-15
+---
+vcomputed: 0.0
+---
+vcomputed: 23.4958832752
+---
+vcomputed: 0.0
+---
+vcomputed: -46.7573931526
+---
+vcomputed: 22.7884296299
+---
+vcomputed: 22.9037671361
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6178478199
+---
+vcomputed: 23.0040980944
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9412210808
+---
+vcomputed: -68.5187316427
+---
+vcomputed: 22.8904189092
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9337200462
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6280114235
+---
+vcomputed: 22.925154241
+---
+vcomputed: -23.1516144834
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7364595829
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7773303388
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9286341345
+---
+vcomputed: -22.8645706609
+---
+vcomputed: -21.7883183191
+---
+vcomputed: 46.9019911709
+---
+vcomputed: -22.7979535068
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7235702509
+---
+vcomputed: -22.9361307185
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.03002516
+---
+vcomputed: -23.7895889634
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5177522582
+---
+vcomputed: -46.6729455165
+---
+vcomputed: 44.6566284205
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8800193849
+---
+vcomputed: 21.9972096667
+---
+vcomputed: -23.696305508
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2478033105
+---
+vcomputed: 22.3338999384
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4098407283
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9710038994
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3631221771
+---
+vcomputed: -44.6317667092
+---
+vcomputed: -23.0375575323
+---
+vcomputed: 23.214827595
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9855215179
+---
+vcomputed: -22.9243517703
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8340007173
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7992766504
+---
+vcomputed: 22.8186129421
+---
+vcomputed: -22.5840389766
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.5826801832
+---
+vcomputed: -21.881046031
+---
+vcomputed: -22.9699300427
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8917528079
+---
+vcomputed: 0.0
+---
+vcomputed: 3.47508832911e-15
+---
+vcomputed: 0.0
+---
+vcomputed: -22.943095982
+---
+vcomputed: 22.9018975369
+---
+vcomputed: -22.8260388563
+---
+vcomputed: 0.0
+---
+vcomputed: 22.6201925405
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 6.95017665822e-15
+---
+vcomputed: -23.3731325744
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.942546449
+---
+vcomputed: -47.2023954269
+---
+vcomputed: 45.2732362242
+---
+vcomputed: -23.259917082
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8236512694
+---
+vcomputed: -22.3835346231
+---
+vcomputed: 23.016498792
+---
+vcomputed: -23.4885772036
+---
+vcomputed: 22.5783274438
+---
+vcomputed: 23.2555100888
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6878705898
+---
+vcomputed: -22.8300196492
+---
+vcomputed: 22.7773303388
+---
+vcomputed: 0.0
+---
+vcomputed: -22.923816447
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9117822021
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1131983115
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0443146315
+---
+vcomputed: 0.0
+---
+vcomputed: -45.5156013533
+---
+vcomputed: 23.0551353739
+---
+vcomputed: -22.8475474094
+---
+vcomputed: 22.4269857153
+---
+vcomputed: 21.9233012349
+---
+vcomputed: 0.0
+---
+vcomputed: -45.4881900673
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3600650252
+---
+vcomputed: 22.1765402941
+---
+vcomputed: -23.4487549395
+---
+vcomputed: -21.8756855195
+---
+vcomputed: 47.5647731911
+---
+vcomputed: -44.9437846549
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.9065725575
+---
+vcomputed: 22.8499399988
+---
+vcomputed: 0.0
+---
+vcomputed: 22.0847718864
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3653464869
+---
+vcomputed: -22.0860135396
+---
+vcomputed: 23.0008652779
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1674536658
+---
+vcomputed: 22.6939005457
+---
+vcomputed: -45.3443130722
+---
+vcomputed: 22.8374518769
+---
+vcomputed: 46.6629643556
+---
+vcomputed: -22.8419681346
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -44.5826313534
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9761108818
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8922866347
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9933251956
+---
+vcomputed: 22.9377373659
+---
+vcomputed: -22.9211413273
+---
+vcomputed: 22.8920202778
+---
+vcomputed: -22.7646580342
+---
+vcomputed: -23.0237846508
+---
+vcomputed: 22.5679484567
+---
+vcomputed: -23.1647213843
+---
+vcomputed: 45.8899468768
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8294876094
+---
+vcomputed: -45.6404085586
+---
+vcomputed: 23.004368196
+---
+vcomputed: -22.8776204925
+---
+vcomputed: 21.9654736932
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.5575800942
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7633389056
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8255081146
+---
+vcomputed: 45.4135124631
+---
+vcomputed: -22.6212361303
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1110217479
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2387256824
+---
+vcomputed: -22.8186129421
+---
+vcomputed: 22.8236523818
+---
+vcomputed: -22.8082785462
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.087657521
+---
+vcomputed: 22.6580319394
+---
+vcomputed: -45.6510162293
+---
+vcomputed: 22.7464671089
+---
+vcomputed: 22.803247003
+---
+vcomputed: -22.8656346888
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.7083869784
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8880189545
+---
+vcomputed: 23.0022120802
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9944023701
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 46.2628737089
+---
+vcomputed: -22.9059025941
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8459533713
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.8292459524
+---
+vcomputed: 0.0
+---
+vcomputed: -22.968587018
+---
+vcomputed: -22.6603849993
+---
+vcomputed: 45.2794964929
+---
+vcomputed: -23.3364727582
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1633554852
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.598850143
+---
+vcomputed: 23.474820095
+---
+vcomputed: -22.8957565564
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7979535068
+---
+vcomputed: -22.9995186334
+---
+vcomputed: -22.6860349706
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7404080853
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6695387286
+---
+vcomputed: 45.9941892374
+---
+vcomputed: -68.2995158777
+---
+vcomputed: 45.6839362691
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7556905308
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.451598389
+---
+vcomputed: -23.0389086351
+---
+vcomputed: 21.6604817775
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.2571629487
+---
+vcomputed: -22.1587755479
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0235140931
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0472896916
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.8399261476
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3730805622
+---
+vcomputed: 0.0
+---
+vcomputed: 23.627318131
+---
+vcomputed: 0.0
+---
+vcomputed: -23.847070216
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.1480677266
+---
+vcomputed: 0.0
+---
+vcomputed: -22.3937435702
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9436322062
+---
+vcomputed: 23.1934448203
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.3015869409
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7306707051
+---
+vcomputed: -22.8371867944
+---
+vcomputed: 22.8146372374
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.802453044
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1540711836
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.933451601
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0084091765
+---
+vcomputed: -22.7535818818
+---
+vcomputed: -21.8280319835
+---
+vcomputed: 45.2925523132
+---
+vcomputed: -69.3763319566
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1352505571
+---
+vcomputed: 22.7306707051
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8294887224
+---
+vcomputed: 22.7417256621
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.275629494
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4600713762
+---
+vcomputed: -23.0351254933
+---
+vcomputed: 22.8941546651
+---
+vcomputed: 0.0
+---
+vcomputed: -47.1763183003
+---
+vcomputed: 46.4532656319
+---
+vcomputed: 0.0
+---
+vcomputed: -23.9508903783
+---
+vcomputed: 0.0
+---
+vcomputed: 23.280871683
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7340918018
+---
+vcomputed: -47.1429122025
+---
+vcomputed: 6.95017665822e-15
+---
+vcomputed: 23.0318839509
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1565272601
+---
+vcomputed: 0.0
+---
+vcomputed: -22.7738962174
+---
+vcomputed: 0.0
+---
+vcomputed: 22.8757551593
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9329169757
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0486419362
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9710038994
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8677652753
+---
+vcomputed: 23.008410307
+---
+vcomputed: 22.9107127542
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8111918581
+---
+vcomputed: -22.8880189545
+---
+vcomputed: 0.0
+---
+vcomputed: 22.5092357035
+---
+vcomputed: 21.3789592019
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 23.9918515673
+---
+vcomputed: 0.0
+---
+vcomputed: -23.2214150218
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.909376645
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 20.9712544915
+---
+vcomputed: -22.8013937777
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4901618006
+---
+vcomputed: 23.1142867471
+---
+vcomputed: 0.0
+---
+vcomputed: -22.1963398107
+---
+vcomputed: 46.9316907919
+---
+vcomputed: -22.3486407115
+---
+vcomputed: -23.5319166318
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4431317922
+---
+vcomputed: 23.6165230861
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.9232102893
+---
+vcomputed: 45.8310498697
+---
+vcomputed: -45.8840494658
+---
+vcomputed: 0.0
+---
+vcomputed: 45.8561949769
+---
+vcomputed: 0.0
+---
+vcomputed: -22.762547723
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -41.8014628852
+---
+vcomputed: 22.8478138473
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9056359202
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8133123103
+---
+vcomputed: 22.6834161551
+---
+vcomputed: -23.0591953468
+---
+vcomputed: 22.2088884966
+---
+vcomputed: 3.47508832911e-15
+---
+vcomputed: -45.6807475214
+---
+vcomputed: 45.5694588072
+---
+vcomputed: 43.7036645229
+---
+vcomputed: 0.0
+---
+vcomputed: -46.7123513703
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.3356790124
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 21.4344899422
+---
+vcomputed: 0.0
+---
+vcomputed: -22.6983579993
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8504707622
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9981721465
+---
+vcomputed: -45.7270112314
+---
+vcomputed: 45.5837362723
+---
+vcomputed: -46.8170208903
+---
+vcomputed: 48.2181305421
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0562183476
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 45.9012063043
+---
+vcomputed: 0.0
+---
+vcomputed: -22.924350648
+---
+vcomputed: 22.944705854
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8611101847
+---
+vcomputed: 22.9997886275
+---
+vcomputed: -22.7746892967
+---
+vcomputed: -65.9362402368
+---
+vcomputed: 61.9851746258
+---
+vcomputed: 0.0
+---
+vcomputed: -22.4958288092
+---
+vcomputed: 23.3284344624
+---
+vcomputed: -45.6919067425
+---
+vcomputed: 23.0394493473
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.4603266989
+---
+vcomputed: -47.9204800089
+---
+vcomputed: 21.7926715217
+---
+vcomputed: 24.1901302568
+---
+vcomputed: -46.3940109943
+---
+vcomputed: 21.9480463879
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 68.8260741988
+---
+vcomputed: 137.859885138
+---
+vcomputed: 98.2796705293
+---
+vcomputed: 214.917203796
+---
+vcomputed: 165.323607767
+---
+vcomputed: 256.49447321
+---
+vcomputed: 160.309542832
+---
+vcomputed: 137.525239059
+---
+vcomputed: 159.88447242
+---
+vcomputed: 90.6206304603
+---
+vcomputed: 160.457343809
+---
+vcomputed: 114.464102432
+---
+vcomputed: 137.259332093
+---
+vcomputed: 157.850492979
+---
+vcomputed: 137.070931926
+---
+vcomputed: 113.869486625
+---
+vcomputed: 160.416155974
+---
+vcomputed: 134.848322005
+---
+vcomputed: 140.598536605
+---
+vcomputed: 159.061309845
+---
+vcomputed: 138.599263672
+---
+vcomputed: 142.561397671
+---
+vcomputed: 160.781986118
+---
+vcomputed: 160.838418862
+---
+vcomputed: 137.440229365
+---
+vcomputed: 137.06774214
+---
+vcomputed: 161.66491955
+---
+vcomputed: 137.24014967
+---
+vcomputed: 157.121667949
+---
+vcomputed: 115.017795201
+---
+vcomputed: 183.294257617
+---
+vcomputed: 163.12659684
+---
+vcomputed: 173.205536425
+---
+vcomputed: 123.559068616
+---
+vcomputed: 152.369483707
+---
+vcomputed: 138.238321679
+---
+vcomputed: 179.452765932
+---
+vcomputed: 165.263992652
+---
+vcomputed: 154.39202107
+---
+vcomputed: 142.390862553
+---
+vcomputed: 157.656805337
+---
+vcomputed: 161.423842922
+---
+vcomputed: 159.839860081
+---
+vcomputed: 136.494609656
+---
+vcomputed: 183.424779908
+---
+vcomputed: 160.616687203
+---
+vcomputed: 136.50251453
+---
+vcomputed: 159.813846413
+---
+vcomputed: 182.60619231
+---
+vcomputed: 159.37661784
+---
+vcomputed: 161.530057253
+---
+vcomputed: 137.819580256
+---
+vcomputed: 161.089068957
+---
+vcomputed: 160.178794398
+---
+vcomputed: 193.131724466
+---
+vcomputed: 162.264049585
+---
+vcomputed: 117.116532409
+---
+vcomputed: 163.949465941
+---
+vcomputed: 160.682392603
+---
+vcomputed: 114.72352927
+---
+vcomputed: 183.570509624
+---
+vcomputed: 192.674897962
+---
+vcomputed: 104.602730957
+---
+vcomputed: 182.178499515
+---
+vcomputed: 186.652599368
+---
+vcomputed: 145.149719625
+---
+vcomputed: 184.378317533
+---
+vcomputed: 114.457432317
+---
+vcomputed: 183.240820728
+---
+vcomputed: 161.094729645
+---
+vcomputed: 118.942180007
+---
+vcomputed: 183.356287056
+---
+vcomputed: 136.464570202
+---
+vcomputed: 184.46706772
+---
+vcomputed: 160.147083448
+---
+vcomputed: 161.094721727
+---
+vcomputed: 156.981734833
+---
+vcomputed: 140.434326076
+---
+vcomputed: 183.996149067
+---
+vcomputed: 184.235624876
+---
+vcomputed: 160.285249322
+---
+vcomputed: 137.702012618
+---
+vcomputed: 183.078549433
+---
+vcomputed: 160.376856824
+---
+vcomputed: 137.827639347
+---
+vcomputed: 137.586255688
+---
+vcomputed: 206.789837853
+---
+vcomputed: 160.66549067
+---
+vcomputed: 184.067273412
+---
+vcomputed: 137.233754486
+---
+vcomputed: 183.29212313
+---
+vcomputed: 160.485445338
+---
+vcomputed: 159.343372339
+---
+vcomputed: 160.253480542
+---
+vcomputed: 137.488338829
+---
+vcomputed: 209.607348814
+---
+vcomputed: 160.671121627
+---
+vcomputed: 158.237473763
+---
+vcomputed: 183.200225943
+---
+vcomputed: 186.952662887
+---
+vcomputed: 179.77513862
+---
+vcomputed: 166.807969908
+---
+vcomputed: 159.520862835
+---
+vcomputed: 158.772906863
+---
+vcomputed: 219.110731159
+---
+vcomputed: 159.837997227
+---
+vcomputed: 145.590879241
+---
+vcomputed: 138.759201448
+---
+vcomputed: 140.152055958
+---
+vcomputed: 160.492941789
+---
+vcomputed: 156.463626927
+---
+vcomputed: 164.885419152
+---
+vcomputed: 208.0873448
+---
+vcomputed: 160.748151782
+---
+vcomputed: 138.053697532
+---
+vcomputed: 160.236668717
+---
+vcomputed: 161.418159082
+---
+vcomputed: 182.38997722
+---
+vcomputed: 180.121368528
+---
+vcomputed: 187.850205393
+---
+vcomputed: 179.584045233
+---
+vcomputed: 187.000629923
+---
+vcomputed: 160.688024745
+---
+vcomputed: 137.924428776
+---
+vcomputed: 182.018112291
+---
+vcomputed: 179.797762673
+---
+vcomputed: 163.978795868
+---
+vcomputed: 176.527314145
+---
+vcomputed: 183.516911563
+---
+vcomputed: 157.834181532
+---
+vcomputed: 185.092905148
+---
+vcomputed: 195.38392463
+---
+vcomputed: 175.204527956
+---
+vcomputed: 161.389737936
+---
+vcomputed: 187.310501339
+---
+vcomputed: 137.837315558
+---
+vcomputed: 160.029638573
+---
+vcomputed: 101.707406243
+---
+vcomputed: 180.772078757
+---
+vcomputed: 184.69474907
+---
+vcomputed: 135.407697266
+---
+vcomputed: 209.930966265
+---
+vcomputed: 160.057582662
+---
+vcomputed: 159.598643211
+---
+vcomputed: 160.453605013
+---
+vcomputed: 181.801178048
+---
+vcomputed: 180.901129058
+---
+vcomputed: 189.529278841
+---
+vcomputed: 181.354220239
+---
+vcomputed: 139.272504772
+---
+vcomputed: 159.048428357
+---
+vcomputed: 183.667074077
+---
+vcomputed: 137.8308646
+---
+vcomputed: 183.07641102
+---
+vcomputed: 182.582847111
+---
+vcomputed: 159.552341781
+---
+vcomputed: 160.635452442
+---
+vcomputed: 196.892133955
+---
+vcomputed: 183.671360584
+---
+vcomputed: 160.674886319
+---
+vcomputed: 213.422532702
+---
+vcomputed: 182.771871596
+---
+vcomputed: 114.821448591
+---
+vcomputed: 184.63398578
+---
+vcomputed: 180.886541325
+---
+vcomputed: 113.267946062
+---
+vcomputed: 189.15964254
+---
+vcomputed: 177.705267947
+---
+vcomputed: 188.773293202
+---
+vcomputed: 181.101288234
+---
+vcomputed: 137.332913301
+---
+vcomputed: 159.680202141
+---
+vcomputed: 160.03336545
+---
+vcomputed: 181.660348323
+---
+vcomputed: 159.808275383
+---
+vcomputed: 183.740098085
+---
+vcomputed: 194.802546752
+---
+vcomputed: 186.456935422
+---
+vcomputed: 159.245552555
+---
+vcomputed: 96.3310200158
+---
+vcomputed: 188.221508049
+---
+vcomputed: 181.567985176
+---
+vcomputed: 162.592204191
+---
+vcomputed: 212.777435209
+---
+vcomputed: 199.325525304
+---
+vcomputed: 136.420340617
+---
+vcomputed: 183.123360225
+---
+vcomputed: 156.009101648
+---
+vcomputed: 137.693968212
+---
+vcomputed: 186.51448426
+---
+vcomputed: 182.212305468
+---
+vcomputed: 183.23654533
+---
+vcomputed: 182.411150222
+---
+vcomputed: 159.886336357
+---
+vcomputed: 159.313826401
+---
+vcomputed: 181.120087635
+---
+vcomputed: 156.549144961
+---
+vcomputed: 186.922762568
+---
+vcomputed: 160.78574812
+---
+vcomputed: 184.657849377
+---
+vcomputed: 159.817563246
+---
+vcomputed: 182.627415543
+---
+vcomputed: 160.29833194
+---
+vcomputed: 160.003563101
+---
+vcomputed: 175.780800091
+---
+vcomputed: 135.722722213
+---
+vcomputed: 161.761927142
+---
+vcomputed: 209.101522087
+---
+vcomputed: -23.0221647952
+---
+vcomputed: 90.8690444479
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.5240255959
+---
+vcomputed: 44.8365644422
+---
+vcomputed: -23.191527632
+---
+vcomputed: 0.0
+---
+vcomputed: -22.8483456268
+---
+vcomputed: 22.8043053309
+---
+vcomputed: 0.0
+---
+vcomputed: -23.1800311554
+---
+vcomputed: 0.0
+---
+vcomputed: 23.0353951908
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.5235109782
+---
+vcomputed: 45.6897801194
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -22.9471188365
+---
+vcomputed: -22.8978916405
+---
+vcomputed: 45.8134097885
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -23.0871156819
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7823504502
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.9750354203
+---
+vcomputed: -22.410608654
+---
+vcomputed: 23.2041312816
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 22.7085941045
+---
+vcomputed: -23.0808749835
+---
+vcomputed: -22.7918681361
+---
+vcomputed: 22.9546275147
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -45.6552624589
+---
+vcomputed: -138.667766198
+---
+vcomputed: -184.683895224
+---
+vcomputed: -148.178466267
+---
+vcomputed: -225.010976483
+---
+vcomputed: -160.571673234
+---
+vcomputed: -159.628287122
+---
+vcomputed: -160.11163871
+---
+vcomputed: -135.946626034
+---
+vcomputed: -137.457867161
+---
+vcomputed: -111.661883825
+---
+vcomputed: -161.857149
+---
+vcomputed: -133.17050802
+---
+vcomputed: -114.469441323
+---
+vcomputed: -158.217439298
+---
+vcomputed: -137.372933995
+---
+vcomputed: -134.940977285
+---
+vcomputed: -182.551029645
+---
+vcomputed: -93.5158975162
+---
+vcomputed: -177.803809535
+---
+vcomputed: -93.345891033
+---
+vcomputed: -160.130286115
+---
+vcomputed: -136.417181039
+---
+vcomputed: -137.496359226
+---
+vcomputed: -136.603780501
+---
+vcomputed: -184.363172711
+---
+vcomputed: -160.404930166
+---
+vcomputed: -137.499562264
+---
+vcomputed: -134.761966657
+---
+vcomputed: -164.832045961
+---
+vcomputed: -160.712440511
+---
+vcomputed: -134.215551479
+---
+vcomputed: -167.496907199
+---
+vcomputed: -149.376294477
+---
+vcomputed: -144.113066047
+---
+vcomputed: -162.611433904
+---
+vcomputed: -153.056493259
+---
+vcomputed: -188.061552713
+---
+vcomputed: -136.191725814
+---
+vcomputed: -137.294512682
+---
+vcomputed: -136.300419113
+---
+vcomputed: -177.886341892
+---
+vcomputed: -160.203063477
+---
+vcomputed: -140.432655443
+---
+vcomputed: -182.799519991
+---
+vcomputed: -134.720364666
+---
+vcomputed: -161.910524144
+---
+vcomputed: -136.843312432
+---
+vcomputed: -183.087085688
+---
+vcomputed: -159.280599348
+---
+vcomputed: -159.600492718
+---
+vcomputed: -137.356929634
+---
+vcomputed: -158.860968593
+---
+vcomputed: -180.955290218
+---
+vcomputed: -159.971913681
+---
+vcomputed: -134.241542834
+---
+vcomputed: -162.707658817
+---
+vcomputed: -175.6746668
+---
+vcomputed: -184.759908057
+---
+vcomputed: -135.625874167
+---
+vcomputed: -163.182746115
+---
+vcomputed: -158.844447654
+---
+vcomputed: -137.867955708
+---
+vcomputed: -133.682644815
+---
+vcomputed: -189.378514866
+---
+vcomputed: -180.061499514
+---
+vcomputed: -161.668722984
+---
+vcomputed: -162.032645319
+---
+vcomputed: -136.900549982
+---
+vcomputed: -209.614803096
+---
+vcomputed: -134.70034826
+---
+vcomputed: -184.33289053
+---
+vcomputed: -179.448682664
+---
+vcomputed: -138.128126322
+---
+vcomputed: -182.627415543
+---
+vcomputed: -156.157958011
+---
+vcomputed: -178.535175413
+---
+vcomputed: -179.338075353
+---
+vcomputed: -177.312208228
+---
+vcomputed: -157.092947633
+---
+vcomputed: -206.632702032
+---
+vcomputed: -159.871457266
+---
+vcomputed: -101.526019289
+---
+vcomputed: -234.293784397
+---
+vcomputed: -98.379359876
+---
+vcomputed: -213.873402099
+---
+vcomputed: -72.5596665644
+---
+vcomputed: -163.300977503
+---
+vcomputed: -161.028686661
+---
+vcomputed: -182.737866624
+---
+vcomputed: -213.673296415
+---
+vcomputed: -181.956984806
+---
+vcomputed: -182.51073988
+---
+vcomputed: -135.857288618
+---
+vcomputed: -180.651531817
+---
+vcomputed: -159.430214828
+---
+vcomputed: -161.367006636
+---
+vcomputed: -184.037097391
+---
+vcomputed: -137.591073323
+---
+vcomputed: -182.286296976
+---
+vcomputed: -172.46786379
+---
+vcomputed: -160.507928934
+---
+vcomputed: -140.290544638
+---
+vcomputed: -184.421596979
+---
+vcomputed: -183.360568044
+---
+vcomputed: -162.089959571
+---
+vcomputed: -180.483446378
+---
+vcomputed: -183.18740603
+---
+vcomputed: -138.256158119
+---
+vcomputed: -134.226253337
+---
+vcomputed: -209.746628117
+---
+vcomputed: -159.604199634
+---
+vcomputed: -179.194905264
+---
+vcomputed: -163.434927197
+---
+vcomputed: -180.91986945
+---
+vcomputed: -183.62629023
+---
+vcomputed: -157.763540064
+---
+vcomputed: -160.515427486
+---
+vcomputed: -137.531661439
+---
+vcomputed: -160.742507541
+---
+vcomputed: -204.701597964
+---
+vcomputed: -159.23264121
+---
+vcomputed: -161.88001861
+---
+vcomputed: -157.821498026
+---
+vcomputed: -183.119081356
+---
+vcomputed: -180.655687434
+---
+vcomputed: -162.588357181
+---
+vcomputed: -160.552915029
+---
+vcomputed: -136.467731976
+---
+vcomputed: -182.153164352
+---
+vcomputed: -181.897991623
+---
+vcomputed: -179.569677743
+---
+vcomputed: -160.2983241
+---
+vcomputed: -159.276915188
+---
+vcomputed: -164.055106096
+---
+vcomputed: -160.229204019
+---
+vcomputed: -156.990697042
+---
+vcomputed: -186.745035294
+---
+vcomputed: -184.211861218
+---
+vcomputed: -161.111722015
+---
+vcomputed: -181.773839625
+---
+vcomputed: -160.695540134
+---
+vcomputed: -160.59979909
+---
+vcomputed: -160.507928934
+---
+vcomputed: -161.170272574
+---
+vcomputed: -158.544029924
+---
+vcomputed: -160.09486445
+---
+vcomputed: -183.454764431
+---
+vcomputed: -182.362461442
+---
+vcomputed: -183.776631869
+---
+vcomputed: -184.030633033
+---
+vcomputed: -114.94778504
+---
+vcomputed: -182.618922097
+---
+vcomputed: -206.396252781
+---
+vcomputed: -137.634467454
+---
+vcomputed: -159.728438078
+---
+vcomputed: -183.705722904
+---
+vcomputed: -183.027366501
+---
+vcomputed: -160.611060061
+---
+vcomputed: -161.243990614
+---
+vcomputed: -183.360568044
+---
+vcomputed: -181.609955178
+---
+vcomputed: -162.444269884
+---
+vcomputed: -183.063617376
+---
+vcomputed: -115.381324532
+---
+vcomputed: -183.213038689
+---
+vcomputed: -152.668970025
+---
+vcomputed: -185.971420771
+---
+vcomputed: -137.112399277
+---
+vcomputed: -182.939986975
+---
+vcomputed: -182.40268576
+---
+vcomputed: -183.272879122
+---
+vcomputed: -184.460573122
+---
+vcomputed: -160.637326058
+---
+vcomputed: -160.725600841
+---
+vcomputed: -160.706806657
+---
+vcomputed: -180.108984541
+---
+vcomputed: -187.509446788
+---
+vcomputed: -134.591121845
+---
+vcomputed: -211.427537232
+---
+vcomputed: -179.74016969
+---
+vcomputed: -163.46408145
+---
+vcomputed: -138.516178823
+---
+vcomputed: -183.247220753
+---
+vcomputed: -181.843264765
+---
+vcomputed: -184.454078981
+---
+vcomputed: -185.073290314
+---
+vcomputed: -178.373033304
+---
+vcomputed: -169.744868642
+---
+vcomputed: -155.934779838
+---
+vcomputed: -159.702460662
+---
+vcomputed: -186.490138411
+---
+vcomputed: -159.646829878
+---
+vcomputed: -161.034343105
+---
+vcomputed: -177.972984018
+---
+vcomputed: -187.348478269
+---
+vcomputed: -178.235435833
+---
+vcomputed: -163.491297122
+---
+vcomputed: -156.465404488
+---
+vcomputed: -187.646052943
+---
+vcomputed: -181.879048059
+---
+vcomputed: -184.12120253
+---
+vcomputed: -184.670875934
+---
+vcomputed: -155.979012598
+---
+vcomputed: -160.605433313
+---
+vcomputed: -183.557637838
+---
+vcomputed: -160.887357189
+---
+vcomputed: -183.027357559
+---
+vcomputed: -136.216916434
+---
+vcomputed: -140.825361771
+---
+vcomputed: -206.569916575
+---
+vcomputed: -159.055791157
+---
+vcomputed: -183.729356149
+---
+vcomputed: -154.910430789
+---
+vcomputed: -183.596249615
+---
+vcomputed: -140.778253698
+---
+vcomputed: -179.082564349
+---
+vcomputed: -185.206368645
+---
+vcomputed: -159.544925173
+---
+vcomputed: -160.425522484
+---
+vcomputed: -205.465388484
+---
+vcomputed: -136.881467702
+---
+vcomputed: -181.389811303
+---
+vcomputed: -159.90678793
+---
+vcomputed: -160.113507948
+---
+vcomputed: -182.03287427
+---
+vcomputed: -203.811773816
+---
+vcomputed: -161.09095317
+---
+vcomputed: -159.535668971
+---
+vcomputed: -156.40845301
+---
+vcomputed: -187.55197399
+---
+vcomputed: -162.11481128
+---
+vcomputed: -161.162704791
+---
+vcomputed: -183.504047291
+---
+vcomputed: -182.844194278
+---
+vcomputed: -182.931473364
+---
+vcomputed: -150.658011409
+---
+vcomputed: -141.729811039
+---
+vcomputed: -181.794869809
+---
+vcomputed: -161.213735703
+---
+vcomputed: -156.996073354
+---
+vcomputed: -186.319858192
+---
+vcomputed: -188.57164881
+---
+vcomputed: -159.424670512
+---
+vcomputed: -158.518443967
+---
+vcomputed: -161.805717993
+---
+vcomputed: -178.132383315
+---
+vcomputed: -163.713233075
+---
+vcomputed: -203.111536111
+---
+vcomputed: -141.002291106
+---
+vcomputed: -205.264978646
+---
+vcomputed: -137.732592638
+---
+vcomputed: -158.213796519
+---
+vcomputed: -161.640205573
+---
+vcomputed: -175.739518585
+---
+vcomputed: -189.600178161
+---
+vcomputed: -157.532155991
+---
+vcomputed: -182.778247822
+---
+vcomputed: -183.238687486
+---
+vcomputed: -163.415494089
+---
+vcomputed: -180.682699246
+---
+vcomputed: -137.302510481
+---
+vcomputed: -163.974882964
+---
+vcomputed: -179.738117176
+---
+vcomputed: -188.662221432
+---
+vcomputed: -178.433798883
+---
+vcomputed: -171.120292104
+---
+vcomputed: -160.141481337
+---
+vcomputed: -179.588143273
+---
+vcomputed: -186.920552064
+---
+vcomputed: -137.784123342
+---
+vcomputed: -206.100254185
+---
+vcomputed: -137.727765088
+---
+vcomputed: -156.684742362
+---
+vcomputed: -161.264791008
+---
+vcomputed: -182.980475436
+---
+vcomputed: -165.188535206
+---
+vcomputed: -180.580932983
+---
+vcomputed: -138.684084349
+---
+vcomputed: -179.676460133
+---
+vcomputed: -163.252503302
+---
+vcomputed: -184.779456517
+---
+vcomputed: -182.301093618
+---
+vcomputed: -162.369458561
+---
+vcomputed: -182.922951613
+---
+vcomputed: -157.03552344
+---
+vcomputed: -183.379830473
+---
+vcomputed: -162.216180914
+---
+vcomputed: -116.694844246
+---
+vcomputed: -184.363172711
+---
+vcomputed: -182.969813196
+---
+vcomputed: -182.328599754
+---
+vcomputed: -184.670875934
+---
+vcomputed: -156.670460649
+---
+vcomputed: -117.176623707
+---
+vcomputed: -202.513497802
+---
+vcomputed: -188.052555749
+---
+vcomputed: -157.575489265
+---
+vcomputed: -186.37952938
+---
+vcomputed: -137.165067316
+---
+vcomputed: -161.604104862
+---
+vcomputed: -204.460081484
+---
+vcomputed: 22.4652091106
+---
+vcomputed: -69.2442530022
+---
+vcomputed: -23.3967990605
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -98.6660102984
+---
+vcomputed: -253.517204392
+---
+vcomputed: -114.599020008
+---
+vcomputed: -155.027466597
+---
+vcomputed: -116.096095907
+---
+vcomputed: -45.8112740813
+---
+vcomputed: -22.8693623588
+---
+vcomputed: -22.8127821603
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: -158.355935763
+---
+vcomputed: -138.087671251
+---
+vcomputed: -196.271233534
+---
+vcomputed: 0.0
+---
+vcomputed: -22.332376765
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
+vcomputed: 0.0
+---
