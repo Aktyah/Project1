@@ -36,6 +36,7 @@ Since this note uses lots of functions, it was decided to use a library to store
 - srv: it contains the service in charge of the dynamic reconfigure of the pose of the robot.
 
 - regression: In this folder it is possible to find the data and the Matlab script used to perform parameter optimization through Linear Regression and OLS equation. In particular, there are two folders: V_x and W_z, they refer to which velocity is saved inside the txt files. In each folder there are two txt files "v_bag" and "v_computed", the first contains all the velocities (either Vx or Wz depending on the folder) obatined from the bag files, meanwhile the second contain the same type of velocity but computed from us (those are the value of velocity published on the topic /cmd_vel). Explanation on how we implemented the regression will be given later on.
+Note: We gave the .txt files to show what are the actual values we used for optimization using the bag that were given to us. Altough, as long as the data are saved using the procedure later explained, the Node4 and Matlab Script would perform the linear regression regardless the particular bag.
 
 ***
 ### Node Structure
