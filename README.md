@@ -13,7 +13,7 @@ Desription of all the work done by:
 ### Content of the zip
 
 - cfg: file for dynamic reconfegure of integration mode
-- launch: launch file called Prj.launch******
+- launch: launch file called Prj1.launch
 - msg: 3 custom messages: v_bag and v_computed were used in the calibration process, while wheels was a request for the project
 - lib and include: these files were used in order to create a library for Node2
 - src: it contains the four nodes run by the launchfile. 
