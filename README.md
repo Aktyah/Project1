@@ -10,7 +10,6 @@ Desription of all the work done by:
 
 10864444 Alessandro Cupo
 ***
-
 ### Content of the zip
 
 - cfg: file for dynamic reconfegure of integration mode
@@ -42,6 +41,12 @@ Since this note uses lots of functions, it was decided to use a library to store
 Morevore, we noticed that the parameters that provided the best correction of our odometry where: R,l,w. Therefore we tried an optimization of those parameters using a linear regression. This operation is done through the Node4 and a matlab script that, given the data, apply the OLS formula.
 What we did was: for parameter R collect the two different velocity, the one from the bag "v_bag" and the one computed by us "v_computed" only using the Vx component. Therefore we used the first part of the bag1 where the robot moved only in the x direction without rotating. The coefficient obtained from the linear regression was w=1.096 . Because Vx is proportional to the radius R we simply multiplied and used Ropt=R*w. For l and w we used the Wz component of the velocity. Firstly we set as value of R the optimal one previously computed, and In the same way as before: we collect the two v_bag and v_computed and then applied OLS. In this case the bag2 was used where only rotation are given as input to the robot. The results was a value of w=1.0403 . Because Wz is proportional to 1/(l+w), to obtain the optimal sum of this two values we divided: (l+w)opt=(l+w)/w. Then the difference between the two l+w was subtracted to w.
 Here described how Node4 and the Matlab script perform the regression:
+***
+### Node Structure
+
+![rosgraph1](https://user-images.githubusercontent.com/89984587/167246375-444e91f5-06f4-4803-877a-664e29af8367.png)
+
+
 ***
 
 ### Ros Parameters
