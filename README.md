@@ -50,8 +50,12 @@ Here described how Node4 and the Matlab script perform the regression:
 ***
 
 ### Ros Parameters
-
-***
+In the launch fie we specify the main parameters of the robot:
+1) radius of the wheels: 0.07 m (we calibrate it and set at 0.077 m)
+2) length of the robot: 0.20 m (we leave this as it is)
+3) width of the robot: 0.169 m (we calibrate it and set at 0.1545 m; we decide to calibrate only the width because we can only estimate the sum length+width, so we change only the width parameter; we could have changed also the leg or even both, bacause the robot dynamics is influenced by width+length
+4) cpr, counts per revolution: 42 (after calibrating the other parameter we were fulfilled with the results, so we leave this as it is. We thougth that this parameter is given by the productor of the encoder and it cannot be off)
+5) FirstPose.. this set of parameters sets the initial pose of the robot, if a bag is played our program sets the robot in the position given by the bag
 
 ### TF tree:
 ![frames](https://user-images.githubusercontent.com/89984587/167246068-7d34fe49-a8a9-4d9f-af66-2e3ac8182a07.png)
