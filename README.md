@@ -18,7 +18,7 @@ Desription of all the work done by:
 - lib and include: these files were used in order to create a library for Node2
 - src: it contains the four nodes run by the launchfile. 
 
-1) Node1: it subscribes to /wheels_states, advertising a message of type sensor_msgs::JointState, reads the tick provided by the encoder and computes the velocities of robot considering the dynamics on an omnidirectional wheeled mobile robot. It publishes the velocities on the topic /cmd_vel advertising a message of type geometry_msgs::TwistStamped.
+1) Node1: it subscribes to /wheels_states, advertising a message of type sensor_msgs::JointState, reads the tick provided by the encoder and computes the velocities of robot considering the dynamics of an omnidirectional wheeled mobile robot. It publishes the velocities on the topic /cmd_vel advertising a message of type geometry_msgs::TwistStamped.
 
 
 2) Node2: it's main job is integrating the velocities published from Node1 in /cmd_vel, using either Euler or Runge-Kutta method, it then publishes the odometry computed in the topic /odom (the message is of tipe "nav_msgs::Odometry").
