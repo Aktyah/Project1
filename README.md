@@ -67,7 +67,15 @@ The tree contains 3 reference systems:
  ***
  
 ### Custom Messages
- ***
+
+There are a total of three Custom Messages implemented:
+v_bag 
+v_computed
+wheels
+
+The first two are used in order to calibrate the parameters. Both of this two are formed by a message of type float64. In case of v_bag the variable is a float64 of name "vcomputed". For v_bag the variable is still a float64 named "vcomputed".
+Lastly, the wheels msg is the one asked from the project. It's structure is formed by: an Header header, four float64 variables where the velocity in Round Per Minute of the wheels are saved. The names, as stated in the pdf are "rpm_fl" "rpm_fr" "rpm_rr" "rpm_rl".
+
 ### How to use the Node
 All of the main Nodes are ment to be started with a launchfile (roslaunch Prj1 Prj1.launch), then all of the    main tasks required from the exerise will be computed except for the calibration node,Node4, that must be started manually (since it's not meant to be run often).
 The package, more specificly Node2, gives the possibility to change the integration method between Euler (that is set by default at the beginning) and Runge-Kutta (rosrun rqt_reconfigure rqt_reconfigure, this hsould launch a gui program that allows the change of the integration mehtod).
