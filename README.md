@@ -36,11 +36,8 @@ Since this note uses lots of functions, it was decided to use a library to store
 
 - srv: it contains the service in charge of the dynamic reconfigure of the pose of the robot.
 
-- regression: 
- For parameter synchronization we used the following idea. Firstly we implemented all the parameters inside the launch file. All nodes get their parameter through launch file. In this way if a "manual" synchronization of the parameter is needed it can be done by just changing the value of the launch file, either from terminal or manually, without the need to recompile the code.
-Morevore, we noticed that the parameters that provided the best correction of our odometry where: R,l,w. Therefore we tried an optimization of those parameters using a linear regression. This operation is done through the Node4 and a matlab script that, given the data, apply the OLS formula.
-What we did was: for parameter R collect the two different velocity, the one from the bag "v_bag" and the one computed by us "v_computed" only using the Vx component. Therefore we used the first part of the bag1 where the robot moved only in the x direction without rotating. The coefficient obtained from the linear regression was w=1.096 . Because Vx is proportional to the radius R we simply multiplied and used Ropt=R*w. For l and w we used the Wz component of the velocity. Firstly we set as value of R the optimal one previously computed, and In the same way as before: we collect the two v_bag and v_computed and then applied OLS. In this case the bag2 was used where only rotation are given as input to the robot. The results was a value of w=1.0403 . Because Wz is proportional to 1/(l+w), to obtain the optimal sum of this two values we divided: (l+w)opt=(l+w)/w. Then the difference between the two l+w was subtracted to w.
-Here described how Node4 and the Matlab script perform the regression:
+- regression: In this folder it is possible to find the data and the Matlab script used to perform parameter optimization through Linear Regression and OLS equation. In particular, there are two folders and the script. In the folder  
+
 ***
 ### Node Structure
 
@@ -81,6 +78,11 @@ All of the main Nodes are ment to be started with a launchfile (roslaunch Prj1 P
 The package, more specificly Node2, gives the possibility to change the integration method between Euler (that is set by default at the beginning) and Runge-Kutta (rosrun rqt_reconfigure rqt_reconfigure, this hsould launch a gui program that allows the change of the integration mehtod).
 It's also possible to reset the odom reference system to any given position, moving consequiently the odometry (rosservice new_pose x y theta, where x y theta are supposed to be new coordinates).
 ***
+
+- regression: 
+ For parameter synchronization we used the following idea. Firstly we implemented all the parameters inside the launch file. All nodes get their parameter through launch file. In this way if a "manual" synchronization of the parameter is needed it can be done by just changing the value of the launch file, either from terminal or manually, without the need to recompile the code.
+Morevore, we noticed that the parameters that provided the best correction of our odometry where: R,l,w. Therefore we tried an optimization of those parameters using a linear regression. This operation is done through the Node4 and a matlab script that, given the data, apply the OLS formula.
+What we did was: for parameter R collect the two different velocity, the one from the bag "v_bag" and the one computed by us "v_computed" only using the Vx component. Therefore we used the first part of the bag1 where the robot moved only in the x direction without rotating. The coefficient obtained from the linear regression was w=1.096 . Because Vx is proportional to the radius R we simply multiplied and used Ropt=R*w. For l and w we used the Wz component of the velocity. Firstly we set as value of R the optimal one previously computed, and In the same way as before: we collect the two v_bag and v_computed and then applied OLS. In this case the bag2 was used where only rotation are given as input to the robot. The results was a value of w=1.0403 . Because Wz is proportional to 1/(l+w), to obtain the optimal sum of this two values we divided: (l+w)opt=(l+w)/w. Then the difference between the two l+w was subtracted to w.
  
  ### Trivia
  **********************************
