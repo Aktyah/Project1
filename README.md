@@ -70,7 +70,7 @@ The tree contains 3 reference systems:
  ***
 ### How to use the Node
 All of the main Nodes are ment to be started with a launchfile (roslaunch Prj1 Prj1.launch), then all of the    main tasks required from the exerise will be computed except for the calibration node,Node4, that must be started manually (since it's not meant to be run often).
-The Node gives the possibility to change the integration method between Euler (that is set by default at the beginning) and Runge-Kutta (rosrun rqt_reconfigure rqt_reconfigure, this hsould launch a gui program that allows the change of the integration mehtod).
+The package, more specificly Node2, gives the possibility to change the integration method between Euler (that is set by default at the beginning) and Runge-Kutta (rosrun rqt_reconfigure rqt_reconfigure, this hsould launch a gui program that allows the change of the integration mehtod).
 It's also possible to reset the odom reference system to any given position, moving consequiently the odometry (rosservice new_pose x y theta, where x y theta are supposed to be new coordinates).
 ***
  
