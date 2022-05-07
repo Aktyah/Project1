@@ -85,7 +85,7 @@ The Node is not directly open from launch file, because calibration should only 
 Note: The matlab script open two files named "v_bag.txt" and "v_computed.txt". We kept the script outside the two folders where the two .txt files for Vx and Wz are saved. This to avoid to copy and paste two identical script. Based on what parameter we wish to calibrate (R or l+w) we should move the script inside the corrispondent folder (Vx or Wz).
  
 ***
- ### Trivia
+ ### Miscellaneous
  **********************************
 - Idea behind linear regression and parameter calibration.
 
