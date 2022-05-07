@@ -45,7 +45,9 @@ Here described how Node4 and the Matlab script perform the regression:
 ### Ros Parameters
 
 
-### TF tree: <add picture> *******
+### TF tree:
+![frames](https://user-images.githubusercontent.com/89984587/167246068-7d34fe49-a8a9-4d9f-af66-2e3ac8182a07.png)
+
 The tree contains 3 reference systems:
  1) world is the main (fixed tp the ground) reference system that is generated from the bags
  2) odom is the reference system on which odometry is computed. It's allways reset in the first position of the robot in the bag (this happenes whenever a new bag is played).
