@@ -9,6 +9,7 @@ Desription of all the work done by:
 10580177 El Hanafi Ahmed
 
 10864444 Alessandro Cupo
+***
 
 ### Content of the zip
 
@@ -41,9 +42,11 @@ Since this note uses lots of functions, it was decided to use a library to store
 Morevore, we noticed that the parameters that provided the best correction of our odometry where: R,l,w. Therefore we tried an optimization of those parameters using a linear regression. This operation is done through the Node4 and a matlab script that, given the data, apply the OLS formula.
 What we did was: for parameter R collect the two different velocity, the one from the bag "v_bag" and the one computed by us "v_computed" only using the Vx component. Therefore we used the first part of the bag1 where the robot moved only in the x direction without rotating. The coefficient obtained from the linear regression was w=1.096 . Because Vx is proportional to the radius R we simply multiplied and used Ropt=R*w. For l and w we used the Wz component of the velocity. Firstly we set as value of R the optimal one previously computed, and In the same way as before: we collect the two v_bag and v_computed and then applied OLS. In this case the bag2 was used where only rotation are given as input to the robot. The results was a value of w=1.0403 . Because Wz is proportional to 1/(l+w), to obtain the optimal sum of this two values we divided: (l+w)opt=(l+w)/w. Then the difference between the two l+w was subtracted to w.
 Here described how Node4 and the Matlab script perform the regression:
+***
 
 ### Ros Parameters
 
+***
 
 ### TF tree:
 ![frames](https://user-images.githubusercontent.com/89984587/167246068-7d34fe49-a8a9-4d9f-af66-2e3ac8182a07.png)
@@ -52,13 +55,15 @@ The tree contains 3 reference systems:
  1) world is the main (fixed tp the ground) reference system that is generated from the bags
  2) odom is the reference system on which odometry is computed. It's allways reset in the first position of the robot in the bag (this happenes whenever a new bag is played).
  3) base_link is the robot's odometry local reference system hence it allways follows the odometry. In this project it was simply a requirement, but in general it could be used to trak components of then robot such as cameras, wheels ecc (whatever sould be too hard to describe in a global reference system).
+ ***
  
 ### Custom Messages
- *********************************
+ ***
 ### How to use the Node
 All of the main Nodes are ment to be started with a launchfile (roslaunch Prj1 Prj1.launch), then all of the    main tasks required from the exerise will be computed except for the calibration node,Node4, that must be started manually (since it's not meant to be run often).
 The Node gives the possibility to change the integration method between Euler (that is set by default at the beginning) and Runge-Kutta (rosrun rqt_reconfigure rqt_reconfigure, this hsould launch a gui program that allows the change of the integration mehtod).
 It's also possible to reset the odom reference system to any given position, moving consequiently the odometry (rosservice new_pose x y theta, where x y theta are supposed to be new coordinates).
+***
  
  ### Trivia
  **********************************
