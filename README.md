@@ -4,11 +4,11 @@ Project1 ROS
 
 Desription of all the work done by:
 
-10580177 El Hanafi Ahmed
+******** El Hanafi Ahmed
 
-10864444 Alessandro Cupo
+******** Alessandro Cupo
 
-10865239 Pasqualotto Marco 
+******** Pasqualotto Marco 
 ***
 ### Content of the zip
 
